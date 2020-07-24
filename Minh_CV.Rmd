@@ -9,6 +9,8 @@ output:
     self_contained: true
 ---
 
+
+
 Aside
 ================================================================================
 
@@ -67,7 +69,7 @@ Main
 
 Minh Chau {#title}
 --------------------------------------------------------------------------------
-<span style="color:black;font-size:13px;">My career goals are to take part in working with meaningful projects using data-driven solutions and data visualization. I currently seek a suitable job to enhance my statistical and programming skills, practice new packages and contribute to the New Zealand society.</span>
+<span style="color:black;font-size:13px;">My career goals are to take part in working with meaningful projects using data-driven solutions and data visualization. I currently seek a suitable job to enhance my statistical and programming skills, practice new packages and contribute to New Zealand society.</span>
 
 
 
@@ -146,6 +148,16 @@ Work Experience {data-icon=suitcase}
 
 
 08/2018 - 12/2019
+
+
+:::{.aside style="top:870px;"}
+
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+
+:::
+
 
 
 
