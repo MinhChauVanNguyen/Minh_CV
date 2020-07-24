@@ -151,8 +151,9 @@ Work Experience {data-icon=suitcase}
 
 
 
-
-
+```{r echo = FALSE, eval = FALSE, message=FALSE, warning=FALSE}
+pagedown::chrome_print('~/Documents/Minh_CV/Minh_CV.html')
+```
 
 
 
