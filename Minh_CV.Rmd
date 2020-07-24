@@ -1,0 +1,159 @@
+---
+title: "Minh Chau"
+author: Minh Chau
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+  # set it to true for a self-contained HTML page but it'll take longer to render
+    css: ["resume", "custom.css"]
+    self_contained: true
+---
+
+Aside
+================================================================================
+
+<div style="margin-top:-40px;">
+Contact {#contact}
+--------------------------------------------------------------------------------
+</div>
+
+- <i class="fa fa-envelope" style ="margin-left:-36px;"></i> [Email](mailto:minh.chau@outlook.co.nz)
+- <i class="fa fa-github" style ="margin-left:-36px;margin-top:5px;"></i> [Github](https://github.com/MinhChauVanNguyen)
+- <i class="fa fa-home" style ="margin-left:-36px;margin-top:5px;"></i> [Portfolio](https://minhchauvannguyen.github.io/)
+
+Packages {#skills}
+--------------------------------------------------------------------------------
+- <strong>Statistical Programming:</strong> R, SQL
+- <strong>Web development:</strong> Shiny, HTML, CSS
+- <strong>Reporting:</strong> R Markdown, Latex
+- <strong>Workflow:</strong> Github, Gitlab
+- <strong>MS Office:</strong> Word, Excel, Power Point
+
+
+Languages {#speak}
+--------------------------------------------------------------------------------
+
+• Vietnamese (native) <br>
+• English (fluent)
+
+
+References {#references}
+--------------------------------------------------------------------------------
+
+<div style="margin-top:15px">
+• <strong>Shirley Wu</strong>
+</div>
+<div style="margin-left:11px;margin-top:-10px;">
+Operation Manager <br>
+Harmonic Analytics <br>
+<span style="text-decoration:underline !important;">[shirley@harmonic.co.nz](mailto:shirley@harmonic.co.nz)</span> <br>
+</div>
+
+• <strong>Ploi Yibmantasiri</strong> 
+<div style="margin-left:11px;margin-top:-10px;">
+Data Scientist <br>
+Harmonic Analytics <br>
+<span style="text-decoration:underline !important;">[ploi@harmonic.co.nz](mailto:ploi@harmonic.co.nz)</span>
+</div>
+
+• <strong>Ge Guo</strong><br>
+<div style="margin-left:11px;margin-top:-10px;">
+Subway Owner <br>
+<span style="text-decoration:underline !important;">[subway_cablecar@hotmail.com](mailto:subway_cablecar@hotmail.com)</span>
+</div>
+
+Main
+================================================================================
+
+Minh Chau {#title}
+--------------------------------------------------------------------------------
+<span style="color:black;font-size:13px;">My career goals are to take part in working with meaningful projects using data-driven solutions and data visualization. I currently seek a suitable job to enhance my statistical and programming skills, practice new packages and contribute to the New Zealand society.</span>
+
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Master of Applied Statistics
+
+<span style = "font-size:14px;">Victoria University of Wellington</span>
+
+<span style = "font-size:14px;">Wellington, NZ</span>
+
+03/2019 - 06/2020
+
+### Bachelor of Science in Statistics
+
+<span style = "font-size:14px;">Otago University</span>
+
+<span style = "font-size:14px;">Dunedin, NZ</span>
+
+03/2015 - 06/2019
+
+<div style="margin-bottom:25px;">
+</div>
+
+
+
+Work Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Sessional Assistant
+
+<span style = "font-size:14px;">Victoria University of Wellington</span>
+
+<span style = "font-size:14px;">Wellington, NZ</span>
+
+<div style = "margin-top:20px;font-size:13px;">
+
+ - Marking 100-level statistics assignments
+ - Attending to training and meetings 
+ - Preparing for marking material
+</div>
+
+04/2020 - current
+
+### Intern/Data Analyst
+
+<span style = "font-size:14px;">Harmonic Analytics</span>
+
+<span style = "font-size:14px;">Wellington, NZ</span>
+
+<div style="margin-top:20px;font-size:13px;">
+
+ - Wrangle and analyze time series data
+ - Investigate different predictive modelling methods 
+ - Produce a dashboard with interactive plots to present the results
+ - Co-operate with supervisors to deliver according to the client’s requirements
+
+</div>
+
+03/2020 - 06/2020
+
+
+### Sandwich Artist
+
+<span style = "font-size:14px;">Subway</span>
+
+<span style = "font-size:14px;">Wellington, NZ</span>
+
+<div style="margin-top:20px;font-size:13px;">
+ - Work in a busy team under pressure
+ - Prepare orders neatly, according to formula, and in a timely manner
+ - Adhere to proper food handling, safety and sanitation standards 
+</div>
+
+
+08/2018 - 12/2019
+
+
+
+
+
+
+
+
+
+
+
