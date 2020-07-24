@@ -159,14 +159,7 @@ This resume was made with the R package [**pagedown**](https://github.com/rstudi
 :::
 
 
-
-
-
-
-```{r echo = FALSE, eval = FALSE, message=FALSE, warning=FALSE}
+```{r echo = FALSE,eval = FALSE}
 pagedown::chrome_print('~/Documents/Minh_CV/Minh_CV.html')
 ```
-
-
-
 
