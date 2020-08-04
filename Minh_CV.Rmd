@@ -25,7 +25,7 @@ Contact {#contact}
 
 Packages {#skills}
 --------------------------------------------------------------------------------
-- <strong>Statistical Programming:</strong> R, SQL
+- <strong>Statistical Programming:</strong> R, SAS, SPSS, SQL
 - <strong>Web development:</strong> Shiny, HTML, CSS
 - <strong>Reporting:</strong> R Markdown, Latex
 - <strong>Workflow:</strong> Github, Gitlab
