@@ -4,7 +4,6 @@ author: Minh Chau
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-  # set it to true for a self-contained HTML page but it'll take longer to render
     css: ["resume", "custom.css"]
     self_contained: true
 ---
@@ -69,7 +68,7 @@ Main
 
 Minh Chau {#title}
 --------------------------------------------------------------------------------
-<span style="color:black;font-size:13px;"> My career goal is to apply my skills and knowledge in producing quality data and reports that support the key internal and external stakeholders and benefit critical decision making. I currently seek a suitable job to enhance my statistical and programming skills, practice new packages and contribute to New Zealand society.</span>
+<span style="color:black;font-size:13px;"> My career goal is to apply my skills and knowledge in producing quality and meaningful projects through data solutions that benefit critical decision making. I currently seek a suitable job to enhance my statistical and programming skills, practice new packages and contribute to New Zealand society.</span>
 
 
 
@@ -98,10 +97,10 @@ Education {data-icon=graduation-cap data-concise=true}
 
 
 
-Work Experience {data-icon=suitcase}
+Work Experience {data-icon=black-tie}
 --------------------------------------------------------------------------------
 
-### Data Visualizer/Statistical Consultant
+### Research Assistant
 
 <span style = "font-size:14px;">Massey University Wellington</span>
 
@@ -109,7 +108,8 @@ Work Experience {data-icon=suitcase}
 
 <div style = "margin-top:20px;font-size:13px;">
 
- - Making graphs and interpreting results
+ - Extract, process and analyze survey data
+ - Create informative graphs and interpret results
  - Communicate with client clearly to fulfil requirements
 </div>
 
@@ -123,9 +123,9 @@ Work Experience {data-icon=suitcase}
 
 <div style = "margin-top:20px;font-size:13px;">
 
- - Marking 100-level statistics assignments
- - Attending to training and meetings 
- - Preparing for marking material
+ - Mark 100-level statistics assignments
+ - Attend to training and meetings 
+ - Prepare for marking material
 </div>
 
 04/2020 - current
@@ -163,6 +163,8 @@ Work Experience {data-icon=suitcase}
 
 08/2018 - 12/2019
 
+<div style="margin-bottom:20px;">
+</div>
 
 :::{.aside style="top:870px;"}
 
