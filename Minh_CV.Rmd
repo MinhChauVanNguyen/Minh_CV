@@ -124,8 +124,8 @@ Work Experience {data-icon=black-tie}
 <div style = "margin-top:20px;font-size:13px;">
 
  - Mark 100-level statistics assignments
- - Attend to training and meetings 
- - Prepare for marking material
+ - Attend to training and meetings
+ - Enter assignments' grades correctly and in accordance with the marking system's guidelines
 </div>
 
 04/2020 - current
