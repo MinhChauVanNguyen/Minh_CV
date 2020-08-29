@@ -108,8 +108,8 @@ Work Experience {data-icon=black-tie}
 
 <div style = "margin-top:20px;font-size:13px;">
 
- - Extract, process and analyze survey data
  - Create informative graphs and interpret results
+ - Extract, process and analyze survey data using appropriate statistical methods
  - Communicate with client clearly to fulfil requirements
 </div>
 
