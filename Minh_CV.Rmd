@@ -18,7 +18,8 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 </div>
 
-- <i class="fa fa-envelope" style ="margin-left:-36px;"></i> [Email](mailto:minh.chau@outlook.co.nz)
+- <i class="fa fa-envelope" style ="margin-left:-36px;"></i> [minh.chau@outlook.co.nz](mailto:minh.chau@outlook.co.nz)
+- <i class="fa fa-phone" style ="margin-left:-36px;"></i><span style = "color:#008B8B;font-weight:bold;">+64-022-036-1978</span>
 - <i class="fa fa-github" style ="margin-left:-36px;margin-top:5px;"></i> [Github](https://github.com/MinhChauVanNguyen)
 - <i class="fa fa-home" style ="margin-left:-36px;margin-top:5px;"></i> [Portfolio](https://minhchauvannguyen.github.io/)
 
