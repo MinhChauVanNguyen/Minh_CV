@@ -13,3 +13,17 @@ a{
   font-weight:bold;
 }
 
+@page :left {
+  @bottom-left {
+    content: counter(page);
+    font-weight:bold;
+  }
+}
+
+@page :right {
+  @bottom-left {
+    content: counter(page);
+    font-weight:bold;
+  }
+}
+

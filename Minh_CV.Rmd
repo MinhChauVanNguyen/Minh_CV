@@ -16,53 +16,43 @@ Aside
 <div style="margin-top:-40px;">
 Contact {#contact}
 --------------------------------------------------------------------------------
-</div>
 
-- <i class="fa fa-envelope" style ="margin-left:-36px;"></i> [minh.chau@outlook.co.nz](mailto:minh.chau@outlook.co.nz)
-- <i class="fa fa-phone" style ="margin-left:-36px;"></i><span style = "color:#008B8B;font-weight:bold;">+64-022-036-1978</span>
-- <i class="fa fa-github" style ="margin-left:-36px;margin-top:5px;"></i> [Github](https://github.com/MinhChauVanNguyen)
-- <i class="fa fa-home" style ="margin-left:-36px;margin-top:5px;"></i> [Portfolio](https://minhchauvannguyen.github.io/)
+- <i class="fa fa-envelope" style ="margin-left:-36px;margin-right:2px"></i> [minh.chau@outlook.co.nz](mailto:minh.chau@outlook.co.nz)
+- <i class="fa fa-phone" style ="margin-left:-36px;margin-right:3px;"></i><span style = "color:#008B8B;font-weight:bold;">+64-22-036-1978</span>
+- <i class="fa fa-github" style ="margin-left:-36px;margin-top:5px;margin-right:2px"></i> [Github profile](https://github.com/MinhChauVanNguyen)
+- <i class="fa fa-home" style ="margin-left:-36px;margin-top:5px;margin-right:2px;"></i> [Personal website](https://minhchauvannguyen.github.io/)
+- <i class="fa fa-linkedin" style ="margin-left:-34px;margin-top:5px;margin-right:2px;"></i> [Linkedin](https://www.linkedin.com/in/minh-chau-van/)
+
+</div>
 
 Packages {#skills}
 --------------------------------------------------------------------------------
-- <strong>Statistical Programming:</strong> R, SAS, SPSS, SQL
-- <strong>Web development:</strong> Shiny, HTML, CSS
-- <strong>Reporting:</strong> R Markdown, Latex
-- <strong>Workflow:</strong> Github, Gitlab
-- <strong>MS Office:</strong> Word, Excel, Power Point
+<div style="margin-top:10px;">
+</div>
+- **Statistical Programming:**</strong> R, SAS, SPSS, SQL
+- **Web development:**</strong> Shiny, HTML, CSS
+- **Reporting:**</strong> R Markdown, Latex
+- **Workflow:**</strong> Github, Gitlab
+- **MS Office:**</strong> Word, Excel, Power Point
+
+
+Key Skills {#skills}
+--------------------------------------------------------------------------------
+<div style="margin-top:-2px;">
+</div>
+• Experience with documenting data <br>processes and generating statistical <br> reports </br>
+• Ability to disseminate raw data and information and communicate in <br> numbers </br>
+• Advanced data analytics and data <br> visualisation skills </br>
+• Critical thinker, team player and problem-solver </br>
+• Knowledge of complex statistical modelling and methods </br>
 
 
 Languages {#speak}
 --------------------------------------------------------------------------------
 
-• Vietnamese (native) <br>
+<div style="margin-bottom:-4px;margin-top:10px;">• Vietnamese (native)</div> 
 • English (fluent)
 
-
-References {#references}
---------------------------------------------------------------------------------
-
-<div style="margin-top:15px">
-• <strong>Shirley Wu</strong>
-</div>
-<div style="margin-left:11px;margin-top:-10px;">
-Operation Manager <br>
-Harmonic Analytics <br>
-<span style="text-decoration:underline !important;">[shirley@harmonic.co.nz](mailto:shirley@harmonic.co.nz)</span> <br>
-</div>
-
-• <strong>Ploi Yibmantasiri</strong> 
-<div style="margin-left:11px;margin-top:-10px;">
-Data Scientist <br>
-Harmonic Analytics <br>
-<span style="text-decoration:underline !important;">[ploi@harmonic.co.nz](mailto:ploi@harmonic.co.nz)</span>
-</div>
-
-• <strong>Ge Guo</strong><br>
-<div style="margin-left:11px;margin-top:-10px;">
-Subway Owner <br>
-<span style="text-decoration:underline !important;">[subway_cablecar@hotmail.com](mailto:subway_cablecar@hotmail.com)</span>
-</div>
 
 Main
 ================================================================================
@@ -167,7 +157,120 @@ Work Experience {data-icon=black-tie}
 <div style="margin-bottom:20px;">
 </div>
 
-:::{.aside style="top:870px;"}
+
+Projects {data-icon=coffee}
+--------------------------------------------------------------------------------
+
+<div style="margin-left:65px;font-size:13px;margin-bottom:5px;">The following projects can be found in details on my personal website, [https://minhchauvannguyen.github.io/](https://minhchauvannguyen.github.io/).</div>
+
+
+### Statistical Consulting Assignment
+Report written based on the <i>Factors influencing the total mercury and
+methyl mercury in the hair of the fishermen</i> article by *N.B. Al-Majed* and *M.R. Preston*, with the aim to investigate the relationship between the amount of fish intake and mercury levels found in fisherman hair.
+
+N/A
+
+08/2019
+
+<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)
+
+
+### Kaggle Data Shiny Application
+Shiny application  interactive analysis of Kaggle suicide statistics accumulated at world level. I built this application when I first learned how to use Shiny for a university project assignment.
+
+
+N/A
+
+09/2019
+
+<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/kaggle-application/)
+
+
+### Cluster Analysis Research Project
+Research study documenting the cluster analysis of ordinal and binary lingustics data. The model-based clustering approach using finite mixtures was proposed and the general ordinal models were described in the context of one-mode and two-mode hard clustering.
+
+N/A
+
+02/2020
+
+<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)
+
+
+
+### Time Series Analysis of Orange data Technical Report
+
+Technical report summarising a variety of methods used for fitting time series data. The aim is to keep track of the data process, and report the findings of the models' perfomances and their predictive ability. 
+
+N/A
+
+05/2020
+
+<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)
+
+
+### Time Series Analysis Shiny Dashboard for Orange data
+
+Shiny dashboard demonstrating Time Series analysis of randomly generated data. This dashboard was reproduced using the structure of the dashboard I had previously created for a client during my internship at Harmonic Analytics.
+
+N/A
+
+06/2020
+
+<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/oranges/)
+
+### ICMR in patients under 18 years old design study 
+
+In applying multinomial logistic regression and Kaplan-Meier survival methods to health data, the purpose of this study is to examine the long term effect of Carpentier-Edwards Ring or Band annuloplasty in patients under the age of 18 years old.
+
+N/A
+
+07/2020
+
+<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/ICMR/Report.html)
+
+
+### ICMR in patients under 18 years old follow-up report 
+
+This research study explores three different statistical methodologies, contingency table analysis, Bayesian approach to multiple multinomial logistic regression and Random Forest classification algorithm and their application to health data. The results were reported to conclude the relationship between the side effect of annuloplasty Band and the clinical outcome of Mitral Regurgitation in patients with mitral valve diseases. 
+
+N/A
+
+09/2020
+
+<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1pdzP5iNu2PaKtnPF2yDT2KpcS0SkEGk1/view)
+
+
+<div style="margin-bottom:20px;">
+</div>
+
+
+
+
+
+:::{.aside style="top:10px;"}
+
+
+<div style="font-size:18px;color:black;">REFERENCE</div>
+
+<div style="margin-top:15px">
+  - • **Shirley Wu**
+</div>
+<div style="margin-left:14px;margin-top:-10px;">
+Operation Manager </br>
+Harmonic Analytics </br>
+<span style="text-decoration:underline !important;">[shirley@harmonic.co.nz](mailto:shirley@harmonic.co.nz)</span> <br>
+</div>
+  - • **Ploi Yibmantasiri**
+<div style="margin-left:10px;margin-top:-10px;">
+Data Scientist </br>
+Harmonic Analytics </br>
+<span style="text-decoration:underline !important;">[ploi@harmonic.co.nz](mailto:ploi@harmonic.co.nz)</span>
+</div>
+  - • **Ge Guo**</br>
+<div style="margin-left:10px;margin-top:-10px;margin-bottom:600px;">
+Subway Owner </br>
+<span style="text-decoration:underline !important;">[subway_cablecar@hotmail.com](mailto:subway_cablecar@hotmail.com)</span>
+</div>
 
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
