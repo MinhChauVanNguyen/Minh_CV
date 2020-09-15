@@ -17,6 +17,7 @@ a{
   @bottom-left {
     content: counter(page);
     font-weight:bold;
+    font-size:10px;
   }
 }
 
@@ -24,6 +25,7 @@ a{
   @bottom-left {
     content: counter(page);
     font-weight:bold;
+    font-size:10px
   }
 }
 

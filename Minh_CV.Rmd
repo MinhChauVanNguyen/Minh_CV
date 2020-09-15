@@ -176,7 +176,7 @@ N/A
 
 
 ### Kaggle Data Shiny Application
-Shiny application  interactive analysis of Kaggle suicide statistics accumulated at world level. I built this application when I first learned how to use Shiny for a university project assignment.
+Shiny application allowing the user to perform interactive analysis on Kaggle suicide statistics accumulated at world level. I built this page when I first learned how to use Shiny for a university project assignment.
 
 
 N/A
@@ -250,7 +250,7 @@ N/A
 :::{.aside style="top:10px;"}
 
 
-<div style="font-size:18px;color:black;">REFERENCE</div>
+<div style="font-size:18px;color:black;">REFERENCES</div>
 
 <div style="margin-top:15px">
   - • **Shirley Wu**
