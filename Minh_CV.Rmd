@@ -237,7 +237,7 @@ N/A
 
 09/2020
 
-<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1pdzP5iNu2PaKtnPF2yDT2KpcS0SkEGk1/view)
+<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/15L3PmghcwCCtMJNhE-LU-wf9YfvCK90W/view)
 
 
 <div style="margin-bottom:20px;">
@@ -273,7 +273,7 @@ Subway Owner </br>
 </div>
 
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+*This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown)*.
 
 
 :::
