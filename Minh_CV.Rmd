@@ -40,11 +40,13 @@ Key Skills {#skills}
 --------------------------------------------------------------------------------
 <div style="margin-top:-2px;">
 </div>
-• Experience with documenting data <br>processes and generating statistical <br> reports </br>
-• Ability to disseminate raw data and information and communicate in <br> numbers </br>
-• Advanced data analytics and data <br> visualisation skills </br>
+• Ability to disseminate raw data and information under appropriate statistical principles </br>
+• Advanced data analytics and data visualisation skills </br>
 • Critical thinker, team player and problem-solver </br>
 • Knowledge of complex statistical modelling and methods </br>
+• Experience with keeping track of data processes and reporting analytical outputs using technical documentation tools </br>
+
+
 
 
 Languages {#speak}
