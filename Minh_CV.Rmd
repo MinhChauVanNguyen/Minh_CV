@@ -207,7 +207,7 @@ N/A
 
 05/2020
 
-<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)
+<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/TimeSeries/)
 
 
 ### Time Series Analysis Shiny Dashboard for Orange data
