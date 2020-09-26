@@ -1,0 +1,55 @@
+body, h4, h5, h6, p, ul, ol{
+  font-family:Helvetica;
+}
+
+:root {
+  --sidebar-background-color:aliceblue; 
+  --decorator-border: 2px solid  #bdd7e7; 
+  --decorator-outer-dim:5px;
+}
+
+.decorator::after {
+    background-color:aliceblue;
+    border:1.5px solid #008B8B;
+}
+
+a{
+  color:#008B8B;
+  font-weight:bold;
+}
+
+@page :left {
+  @bottom-left {
+    content: counter(page);
+    font-weight:bold;
+    font-size:10px;
+  }
+}
+
+@page :right {
+  @bottom-left {
+    content: counter(page);
+    font-weight:bold;
+    font-size:10px
+  }
+}
+
+.minh {
+  border: 1px solid #008B8B;
+  margin-top:16px;
+  padding-top:-20px !important;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li::before {
+  content: "\25AA"!important;  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color:#008B8B;
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
