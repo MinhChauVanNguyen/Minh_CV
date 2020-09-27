@@ -17,12 +17,12 @@ Aside
 Contact {#contact}
 --------------------------------------------------------------------------------
 
- <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px"></i><span style="text-decoration:underline !important;"> [minh.chau@outlook.co.nz](mailto:minh.chau@outlook.co.nz)</span>
+ <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;margin-bottom:6px;color:#8db2ef;"></i> [<span style="text-decoration:underline !important;">minh.chau@outlook.co.nz</span>](mailto:minh.chau@outlook.co.nz)
  <br>
- <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;"></i><span>+64-22-036-1978</span><br>
- <i class="fa fa-github" style ="margin-left:2px;margin-top:5px;margin-right:2px"></i>[Github profile](https://github.com/MinhChauVanNguyen)<br>
- <i class="fa fa-home" style ="margin-left:2px;margin-top:5px;margin-right:2px;"></i>[Personal website](https://minhchauvannguyen.github.io/)<br>
- <i class="fa fa-linkedin" style ="margin-left:2.5px;margin-top:5px;margin-right:2px;"></i> [Linkedin](https://www.linkedin.com/in/minh-chau-van/)<br>
+ <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;color:#8db2ef;"></i><span style="font-weight:400; color:black;">+64-22-036-1978</span><br>
+ <i class="fa fa-github" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[Github profile](https://github.com/MinhChauVanNguyen)<br>
+ <i class="fa fa-home" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[Personal website](https://minhchauvannguyen.github.io/)<br>
+ <i class="fa fa-linkedin" style ="margin-left:2.5px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i> [Linkedin](https://www.linkedin.com/in/minh-chau-van/)<br>
 
 </div>
 
@@ -33,11 +33,17 @@ Packages {#packages}
 **Statistical Programming:** <br>
    <span style="margin-left:10px;color:#8db2ef;">❑</span> Experience with R  <br>
    <span style="margin-left:10px;color:#8db2ef;">❑</span> Exposure to SAS, SPSS, SQL</span> <br>
-**Web development:**  HTML, CSS<br>
+<div style = "margin-bottom:3px;"></div>
+**Web development:**  HTML, CSS <br>
+<div style = "margin-bottom:3px;"></div>
 **Machine learning:** Python (Entry level)<br>
+<div style = "margin-bottom:3px;"></div>
 **Reporting:** R Markdown, Shiny, Latex<br>
+<div style = "margin-bottom:3px;"></div>
 **Workflow:** Github, Gitlab<br>
+<div style = "margin-bottom:3px;"></div>
 **MS Office:** Excel, Power Point, Word<br>
+<div style = "margin-bottom:3px;"></div>
 
 
 Key Skills {#skills}
@@ -62,8 +68,12 @@ Key Skills {#skills}
   <div class="skills">Experience with qualitative and quantitative methodologies</div>
 </div>
 
-<div class="container", style="margin-bottom:70px;">
+<div class="container">
   <div class="skills">Understanding of survey design and analysis</div>
+</div>
+
+<div class="container", style="margin-bottom:70px;">
+  <div class="skills">Familiar with time series forecasting and other predictive modelling techniques</div>
 </div>
 
 
@@ -176,7 +186,7 @@ Work Experience {data-icon=black-tie}
 Projects {data-icon=coffee}
 --------------------------------------------------------------------------------
 
-<div style="margin-left:65px;margin-bottom:5px;font-size:12px;">The following projects can be found in details on my personal website, [https://minhchauvannguyen.github.io/](https://minhchauvannguyen.github.io/).</div>
+<div style="margin-left:65px;margin-bottom:5px;font-size:12px;">The following projects can be found in details on my personal website, [<span style="text-decoration:underline!important;color:#8db2ef !important;">**https://minhchauvannguyen.github.io/**</span>](https://minhchauvannguyen.github.io/)</span>.</div>
 
 
 ### Statistical Consulting Assignment
@@ -220,7 +230,7 @@ N/A
 
 05/2020
 
-<i class="fa fa-globe" style = "color:#8db2ef;;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/TimeSeries/)
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/TimeSeries/)
 
 
 ### Time Series Analysis Shiny Dashboard for Orange data
@@ -231,7 +241,7 @@ N/A
 
 06/2020
 
-<i class="fa fa-globe" style = "color:#8db2ef;;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/oranges/)
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/oranges/)
 
 ### ICMR in patients under 18 years old design study 
 
@@ -241,7 +251,7 @@ N/A
 
 07/2020
 
-<i class="fa fa-globe" style = "color:#8db2ef;;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/ICMR/Report.html)
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/ICMR/Report.html)
 
 
 ### ICMR in patients under 18 years old follow-up report 
@@ -252,7 +262,7 @@ N/A
 
 09/2020
 
-<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/15L3PmghcwCCtMJNhE-LU-wf9YfvCK90W/view?usp=sharing)
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1_94PQm6wHnYZ_Qo5SaU1i92-ZkW2iqtc/view)
 
 
 <div style="margin-bottom:20px;">
@@ -264,9 +274,9 @@ N/A
 
 :::{.aside style="top:10px;"}
 
-<div style="font-size:17.6px;color:black;font-weight:400;style="color:#8db2ef;">LANGUAGES</div>
+<div style="font-size:17.6px;color:black;font-weight:400;">LANGUAGES</div>
 
-<div style="margin-bottom:-4px;margin-top:15px;">❑ Vietnamese (native)</div>
+<div style="margin-bottom:-4px;margin-top:15px;"><span style="color:#8db2ef;">❑ </span> Vietnamese (native)</div>
 <span style="color:#8db2ef;">❑ </span> English (fluent) 
 
 <div style="font-size:17.6px;color:black;font-weight:400;margin-top:60px;">REFERENCES</div>
@@ -293,7 +303,7 @@ Subway </br>
 </div>
 
 
-*This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown)*.
+*This resume was made with the R package [<span style ="color:#8db2ef">**pagedown**</span>](https://github.com/rstudio/pagedown)*.
 
 
 :::
