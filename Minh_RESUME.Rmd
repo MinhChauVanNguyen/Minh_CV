@@ -17,21 +17,22 @@ Aside
 Contact {#contact}
 --------------------------------------------------------------------------------
 
- <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px"></i> [minh.chau@outlook.co.nz](mailto:minh.chau@outlook.co.nz)<br>
- <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;"></i><span style = "color:#008B8B;font-weight:bold;">+64-22-036-1978</span><br>
+ <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px"></i><span style="text-decoration:underline !important;"> [minh.chau@outlook.co.nz](mailto:minh.chau@outlook.co.nz)</span>
+ <br>
+ <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;"></i><span>+64-22-036-1978</span><br>
  <i class="fa fa-github" style ="margin-left:2px;margin-top:5px;margin-right:2px"></i>[Github profile](https://github.com/MinhChauVanNguyen)<br>
  <i class="fa fa-home" style ="margin-left:2px;margin-top:5px;margin-right:2px;"></i>[Personal website](https://minhchauvannguyen.github.io/)<br>
  <i class="fa fa-linkedin" style ="margin-left:2.5px;margin-top:5px;margin-right:2px;"></i> [Linkedin](https://www.linkedin.com/in/minh-chau-van/)<br>
 
 </div>
 
-Packages {#skills}
+Packages {#packages}
 --------------------------------------------------------------------------------
 <div style="margin-top:10px;">
 </div>
 **Statistical Programming:** <br>
-   <span style="margin-left:10px;">❑ Exprience with R </span> <br>
-   <span style="margin-left:10px;">❑ Exposure to SAS, SPSS, SQL</span> <br>
+   <span style="margin-left:10px;color:#8db2ef;">❑</span> Experience with R  <br>
+   <span style="margin-left:10px;color:#8db2ef;">❑</span> Exposure to SAS, SPSS, SQL</span> <br>
 **Web development:**  HTML, CSS<br>
 **Machine learning:** Python (Entry level)<br>
 **Reporting:** R Markdown, Shiny, Latex<br>
@@ -41,16 +42,29 @@ Packages {#skills}
 
 Key Skills {#skills}
 --------------------------------------------------------------------------------
-<div class = "minh", style="padding-bottom:-10px;padding-left:3px;padding-right:3px">
-  ❑  Knowledge of advanced statistical analysing and programming</br>
-  ❑  Familiar with the concepts and measures of epidemiological data</br>
-  ❑  Understanding of survey design and analysis</br>
-  ❑  Build and maintain professional work relationships</br>
-  ❑  Ability to create evidence-based reports</br>
-  ❑  Strong data visualisation and presentation skills </br>
-  ❑  Experience with qualitative and quantitative methodologies </br>
+<div style="margin-bottom:20px;"></div>
+<div class="container">
+  <div class="skills">Knowledge of advanced statistical analysing and programming</div>
 </div>
 
+
+<div class="container">
+  <div class="skills">Build and maintain professional work relationships</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Ability to create evidence-based reports</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Experience with qualitative and quantitative methodologies</div>
+</div>
+
+<div class="container", style="margin-bottom:70px;">
+  <div class="skills">Understanding of survey design and analysis</div>
+</div>
 
 
 
@@ -58,7 +72,7 @@ Key Skills {#skills}
 Main
 ================================================================================
 
-Minh Chau {#title}
+<span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
 --------------------------------------------------------------------------------
 <span style="color:black;font-size:12.5px;">My career goal is to apply my knowledge in producing reliable and <br> insightful projects through the use of statistics and inform critical decision making. I currently seek a suitable job to enhance my statistical and programming skills, and contribute to New Zealand society.</span>
 
@@ -105,7 +119,7 @@ Work Experience {data-icon=black-tie}
  - Communicate with client clearly to fulfil requirements
 </div>
 
-08/2020 - 09/2020
+08/2020 - current
 
 ### Sessional Assistant
 
@@ -173,7 +187,7 @@ N/A
 
 08/2019
 
-<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)
 
 
 ### Kaggle Data Shiny Application
@@ -184,7 +198,7 @@ N/A
 
 09/2019
 
-<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/kaggle-application/)
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/kaggle-application/)
 
 
 ### Cluster Analysis Research Project
@@ -194,7 +208,7 @@ N/A
 
 02/2020
 
-<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)
+<i class="fa fa-globe" style = "color:#8db2ef;;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)
 
 
 
@@ -206,7 +220,7 @@ N/A
 
 05/2020
 
-<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/TimeSeries/)
+<i class="fa fa-globe" style = "color:#8db2ef;;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/TimeSeries/)
 
 
 ### Time Series Analysis Shiny Dashboard for Orange data
@@ -217,7 +231,7 @@ N/A
 
 06/2020
 
-<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/oranges/)
+<i class="fa fa-globe" style = "color:#8db2ef;;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/oranges/)
 
 ### ICMR in patients under 18 years old design study 
 
@@ -227,7 +241,7 @@ N/A
 
 07/2020
 
-<i class="fa fa-globe" style = "color:#008B8B;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/ICMR/Report.html)
+<i class="fa fa-globe" style = "color:#8db2ef;;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/ICMR/Report.html)
 
 
 ### ICMR in patients under 18 years old follow-up report 
@@ -250,28 +264,28 @@ N/A
 
 :::{.aside style="top:10px;"}
 
-<div style="font-size:17.6px;color:black;font-weight:400;">LANGUAGES</div>
+<div style="font-size:17.6px;color:black;font-weight:400;style="color:#8db2ef;">LANGUAGES</div>
 
 <div style="margin-bottom:-4px;margin-top:15px;">❑ Vietnamese (native)</div>
-❑ English (fluent) 
+<span style="color:#8db2ef;">❑ </span> English (fluent) 
 
 <div style="font-size:17.6px;color:black;font-weight:400;margin-top:60px;">REFERENCES</div>
 
 <div style="margin-top:15px">
-   ❑ **Shirley Wu**
+   <span style="color:#8db2ef;">❑</span> **Shirley Wu**
 </div>
 <div style="margin-left:14px;margin-top:-10px;">
 Operation Manager </br>
 Harmonic Analytics </br>
 <span style="text-decoration:underline !important;">[shirley@harmonic.co.nz](mailto:shirley@harmonic.co.nz)</span> <br>
 </div>
-   ❑ **Ploi Yibmantasiri**
+   <span style="color:#8db2ef;">❑</span> **Ploi Yibmantasiri**
 <div style="margin-left:14px;margin-top:-10px;">
 Data Scientist </br>
 Harmonic Analytics </br>
 <span style="text-decoration:underline !important;">[ploi@harmonic.co.nz](mailto:ploi@harmonic.co.nz)</span>
 </div>
-  ❑ **Ge Guo**</br>
+  <span style="color:#8db2ef;">❑</span> **Ge Guo**</br>
 <div style="margin-left:14px;margin-top:-10px;margin-bottom:470px;">
 Business Owner </br>
 Subway </br>

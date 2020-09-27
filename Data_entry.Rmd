@@ -1,0 +1,202 @@
+---
+title: "Minh Chau"
+author: Minh Chau
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ["resume", "customs.css"]
+    self_contained: true
+---
+
+
+
+Aside
+================================================================================
+
+<div style="margin-top:-40px;">
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+ <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;color:#8db2ef;margin-bottom:6px;"></i> [*minh.chau@outlook.co.nz*](mailto:minh.chau@outlook.co.nz)<br>
+ <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;color:#8db2ef;margin-bottom:5px;"></i><span style = "color:black;;">*+64-22-036-1978*</span><br>
+ <i class="fa fa-linkedin" style ="margin-left:2.5px;margin-top:5px;margin-right:2px;color:#8db2ef;margin-bottom:5px;"></i> <span style="text-decoration:underline !important;">
+ [*linkedin.com/in/minh-chau-van/*](https://www.linkedin.com/in/minh-chau-van/)</span><br>
+
+</div>
+<div style="margin-bottom:70px;"></div>
+
+
+Key Skills {#skills}
+--------------------------------------------------------------------------------
+<div style="margin-bottom:20px;"></div>
+<div class="container">
+  <div class="skills">Communication and writing skills</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Adapt quickly to new systems and computer competences</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Experience with data entry and processing</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Ability to type fast with high accuracy in a timely manner</div>
+</div>
+
+<div class="container", style="margin-bottom:70px;">
+  <div class="skills">Strong customer service skills</div>
+</div>
+
+
+
+References {#references}
+--------------------------------------------------------------------------------
+
+<div style="margin-top:15px">
+   <span style="color:#8db2ef;">❑ </span> **Shirley Wu**
+</div>
+<div style="margin-left:14px;margin-top:-10px;">
+Operation Manager </br>
+Harmonic Analytics </br>
+<span style="text-decoration:underline !important;">[*shirley@harmonic.co.nz*](mailto:shirley@harmonic.co.nz)</span> <br>
+</div>
+   <span style="color:#8db2ef;">❑ </span> **Ploi Yibmantasiri**
+<div style="margin-left:14px;margin-top:-10px;">
+Data Scientist </br>
+Harmonic Analytics </br>
+<span style="text-decoration:underline !important;">[*ploi@harmonic.co.nz*](mailto:ploi@harmonic.co.nz)</span>
+</div>
+  <span style="color:#8db2ef;">❑ </span> **Ge Guo**</br>
+<div style="margin-left:14px;margin-top:-10px;margin-bottom:470px;">
+Business Owner </br>
+Subway </br>
+<span style="text-decoration:underline !important;">[*subway_cablecar@hotmail.com*](mailto:subway_cablecar@hotmail.com)</span>
+</div>
+
+
+
+
+
+
+
+
+
+Main
+================================================================================
+
+<span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
+--------------------------------------------------------------------------------
+<span style="color:black;font-size:12.5px;"> As a recently graduated university student with excellent logical thinking and organisational skills, I am currently seeking a job opportunity in the information processing field to expand my experience within the workforce. </span>
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Master of Applied Statistics
+
+<span>Victoria University of Wellington</span>
+
+<span>Wellington, NZ</span>
+
+03/2019 - 06/2020
+
+### Bachelor of Science in Statistics
+
+<span>Otago University</span>
+
+<span>Dunedin, NZ</span>
+
+03/2015 - 06/2019
+
+<div style="margin-bottom:15px;">
+</div>
+
+
+
+Work Experience {data-icon=black-tie}
+--------------------------------------------------------------------------------
+
+### Research Assistant
+
+<span>Massey University Wellington</span>
+
+<span>Wellington, NZ</span>
+
+<div style = "margin-top:20px;">
+
+ - Create informative graphs and interpret results
+ - Extract, process and analyse survey data using appropriate statistical methods
+ - Communicate with client clearly to fulfil requirements
+</div>
+
+08/2020 - current
+
+### Sessional Assistant
+
+<span>Victoria University of Wellington</span>
+
+<span>Wellington, NZ</span>
+
+<div style = "margin-top:20px;">
+
+ - Mark 100-level statistics assignments
+ - Attend to training and meetings
+ - Enter assignment grades correctly and in accordance with the marking system's guidelines
+</div>
+
+04/2020 - current
+
+### Intern/Data Analyst
+
+<span>Harmonic Analytics</span>
+
+<span>Wellington, NZ</span>
+
+<div style="margin-top:20px;">
+
+ - Wrangle and analyse time series data
+ - Investigate different predictive modelling methods 
+ - Produce a dashboard with interactive plots to present the results
+ - Co-operate with supervisors to deliver according to the client’s requirements
+
+</div>
+
+03/2020 - 06/2020
+
+
+### Sandwich Artist
+
+<span>Subway</span>
+
+<span>Wellington, NZ</span>
+
+<div style="margin-top:20px;">
+ - Work in a busy team under pressure 
+ - Prepare orders neatly according to formula 
+ - Adhere to proper food handling, safety and sanitation standards 
+</div>
+
+
+08/2018 - 12/2019
+
+<div style="margin-bottom:20px;">
+</div>
+
+
+:::{.aside style="top:870px;"}
+
+
+*This resume was made with the R package [<span style ="color:#8db2ef">**pagedown**</span>](https://github.com/rstudio/pagedown)*
+
+
+:::
+
+```{r echo = FALSE,eval = FALSE}
+pagedown::chrome_print('~/Documents/Resume/Data_entry.html')
+```

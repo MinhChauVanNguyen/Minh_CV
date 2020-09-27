@@ -1,0 +1,310 @@
+---
+title: "Minh Chau"
+author: Minh Chau
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ["resume", "customs.css"]
+    self_contained: true
+---
+
+
+
+Aside
+================================================================================
+
+<div style="margin-top:-40px;">
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+ <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;color:#8db2ef"></i> [*minh.chau@outlook.co.nz*](mailto:minh.chau@outlook.co.nz)<br>
+ <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;color:#8db2ef"></i><span style = "color:black;;">*+64-22-036-1978*</span><br>
+ <i class="fa fa-github" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[*Github profile*](https://github.com/MinhChauVanNguyen)<br>
+ <i class="fa fa-home" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[*Personal website*](https://minhchauvannguyen.github.io/)<br>
+ <i class="fa fa-linkedin" style ="margin-left:2.5px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i> [*Linkedin*](https://www.linkedin.com/in/minh-chau-van/)<br>
+
+</div>
+<div style="margin-bottom:70px;"></div>
+
+
+Key Skills {#skills}
+--------------------------------------------------------------------------------
+<div style="margin-bottom:20px;"></div>
+<div class="container">
+  <div class="skills">Communication and writing skills</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Adapt quickly to new systems and computer competences</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Experience with data entry and processing</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Ability to type fast with high accuracy in a timely manner</div>
+</div>
+
+<div class="container", style="margin-bottom:70px;">
+  <div class="skills">Strong customer service skills</div>
+</div>
+
+
+
+Packages {#skills}
+--------------------------------------------------------------------------------
+<div style="margin-top:10px;">
+</div>
+**Statistical Programming:** <br>
+   <span style="margin-left:10px;color:#8db2ef;">❑ </span> Exprience with R  <br>
+   <span style="margin-left:10px;color:#8db2ef;">❑ </span> Exposure to SAS, SPSS, SQL <br>
+**Web development:**  HTML, CSS<br>
+**Machine learning:** Python (Entry level)<br>
+**Reporting:** R Markdown, Shiny, Latex<br>
+**Workflow:** Github, Gitlab<br>
+**MS Office:** Excel, Power Point, Word<br>
+
+
+
+
+
+
+
+
+Main
+================================================================================
+
+<span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
+--------------------------------------------------------------------------------
+<span style="color:black;font-size:12.5px;"> As a recently graduated university student with excellent logical thinking and organisational skills, I am currently seeking a job opportunity in the data entry and information processing field to expand my experience within the workforce. </span>
+
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Master of Applied Statistics
+
+<span>Victoria University of Wellington</span>
+
+<span>Wellington, NZ</span>
+
+03/2019 - 06/2020
+
+### Bachelor of Science in Statistics
+
+<span>Otago University</span>
+
+<span>Dunedin, NZ</span>
+
+03/2015 - 06/2019
+
+<div style="margin-bottom:15px;">
+</div>
+
+
+
+Work Experience {data-icon=black-tie}
+--------------------------------------------------------------------------------
+
+### Research Assistant
+
+<span>Massey University Wellington</span>
+
+<span>Wellington, NZ</span>
+
+<div style = "margin-top:20px;">
+
+ - Create informative graphs and interpret results
+ - Extract, process and analyse survey data using appropriate statistical methods
+ - Communicate with client clearly to fulfil requirements
+</div>
+
+08/2020 - current
+
+### Sessional Assistant
+
+<span>Victoria University of Wellington</span>
+
+<span>Wellington, NZ</span>
+
+<div style = "margin-top:20px;">
+
+ - Mark 100-level statistics assignments
+ - Attend to training and meetings
+ - Enter assignment grades correctly and in accordance with the marking system's guidelines
+</div>
+
+04/2020 - current
+
+### Intern/Data Analyst
+
+<span>Harmonic Analytics</span>
+
+<span>Wellington, NZ</span>
+
+<div style="margin-top:20px;">
+
+ - Wrangle and analyse time series data
+ - Investigate different predictive modelling methods 
+ - Produce a dashboard with interactive plots to present the results
+ - Co-operate with supervisors to deliver according to the client’s requirements
+
+</div>
+
+03/2020 - 06/2020
+
+
+### Sandwich Artist
+
+<span>Subway</span>
+
+<span>Wellington, NZ</span>
+
+<div style="margin-top:20px;">
+ - Work in a busy team under pressure 
+ - Prepare orders neatly according to formula 
+ - Adhere to proper food handling, safety and sanitation standards 
+</div>
+
+
+08/2018 - 12/2019
+
+<div style="margin-bottom:20px;">
+</div>
+
+
+Projects {data-icon=coffee}
+--------------------------------------------------------------------------------
+
+<div style="margin-left:65px;margin-bottom:5px;font-size:12px;">The following projects can be found in details on my personal website, <span style="text-decoration:underline !important;">[*https://minhchauvannguyen.github.io/*](https://minhchauvannguyen.github.io/)</span>.</div>
+
+
+### Statistical Consulting Assignment
+<span style="font-size:11px;">Report written based on the <i>Factors influencing the total mercury and
+methyl mercury in the hair of the fishermen</i> article by *N.B. Al-Majed* and *M.R. Preston*, with the aim to investigate the relationship between the amount of fish intake and mercury levels found in fisherman hair.</span>
+
+N/A
+
+08/2019
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)
+
+
+### Kaggle Data Shiny Application
+<span style="font-size:11px;">Shiny application allowing the user to perform interactive analysis on Kaggle suicide statistics accumulated at world level. I built this page when I first learned how to use Shiny for a university project assignment.</span>
+
+
+N/A
+
+09/2019
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/kaggle-application/)
+
+
+### Cluster Analysis Research Project
+<span style="font-size:11px;">Research study documenting the cluster analysis of ordinal and binary lingustics data. The model-based clustering approach using finite mixtures was proposed and described in the context of one-mode and two-mode hard clustering.</span>
+
+N/A
+
+02/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)
+
+
+
+### Time Series Analysis of Orange data Technical Report
+
+<span style="font-size:11px;">Technical report summarising a variety of methods used for fitting time series data. The aim is to keep track of the data process, and report the findings of the models' perfomances and their predictive ability.</span>
+
+N/A
+
+05/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/TimeSeries/)
+
+
+### Time Series Analysis Shiny Dashboard for Orange data
+
+<span style="font-size:11px;">Shiny dashboard demonstrating Time Series analysis of randomly generated made up data. This dashboard was reproduced using the structure of the dashboard I had previously created for a client during my internship at Harmonic Analytics.</span>
+
+N/A
+
+06/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/oranges/)
+
+### ICMR in patients under 18 years old design study 
+
+<span style="font-size:11px;">By applying multinomial logistic regression and Kaplan-Meier survival methods to health data, the purpose of this study is to examine the long term effect of Carpentier-Edwards Ring or Band annuloplasty in patients under the age of 18 years old.</span>
+
+N/A
+
+07/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/ICMR/Report.html)
+
+
+### ICMR in patients under 18 years old follow-up report 
+
+<span style="font-size:11px;">This research study explores three different statistical methodologies, contingency table analysis, Bayesian approach to multiple multinomial logistic regression and Random Forest classification, and their application to health data. The results were reported to conclude the relationship between the side effect of annuloplasty Band and the clinical outcome of Mitral Regurgitation in patients with mitral valve diseases.</span>
+
+N/A
+
+09/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/15L3PmghcwCCtMJNhE-LU-wf9YfvCK90W/view?usp=sharing)
+
+
+<div style="margin-bottom:20px;">
+</div>
+
+
+
+
+
+:::{.aside style="top:10px;"}
+
+<div style="font-size:17.6px;color:black;font-weight:400;">LANGUAGES</div>
+
+<div style="margin-bottom:-4px;margin-top:15px;"><span style="color:#8db2ef;">❑ </span>Vietnamese (native)</div>
+<span style="color:#8db2ef;">❑ </span> English (fluent) 
+
+<div style="font-size:17.6px;color:black;font-weight:400;margin-top:60px;">REFERENCES</div>
+
+<div style="margin-top:15px">
+   <span style="color:#8db2ef;">❑ </span> **Shirley Wu**
+</div>
+<div style="margin-left:14px;margin-top:-10px;">
+Operation Manager </br>
+Harmonic Analytics </br>
+<span style="text-decoration:underline !important;">[*shirley@harmonic.co.nz*](mailto:shirley@harmonic.co.nz)</span> <br>
+</div>
+   <span style="color:#8db2ef;">❑ </span> **Ploi Yibmantasiri**
+<div style="margin-left:14px;margin-top:-10px;">
+Data Scientist </br>
+Harmonic Analytics </br>
+<span style="text-decoration:underline !important;">[*ploi@harmonic.co.nz*](mailto:ploi@harmonic.co.nz)</span>
+</div>
+  <span style="color:#8db2ef;">❑ </span> **Ge Guo**</br>
+<div style="margin-left:14px;margin-top:-10px;margin-bottom:470px;">
+Business Owner </br>
+Subway </br>
+<span style="text-decoration:underline !important;">[*subway_cablecar@hotmail.com*](mailto:subway_cablecar@hotmail.com)</span>
+</div>
+
+
+*This resume was made with the R package [<span style ="color:#8db2ef">**pagedown**</span>](https://github.com/rstudio/pagedown)*.
+
+
+:::
+
+
+```{r echo = FALSE,eval = FALSE}
+pagedown::chrome_print('~/Documents/Minh_RESUME/Minh_Resume.html')
+```
