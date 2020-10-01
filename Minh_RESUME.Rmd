@@ -310,5 +310,5 @@ Subway </br>
 
 
 ```{r echo = FALSE,eval = FALSE}
-pagedown::chrome_print('~/Documents/Minh_RESUME/Minh_Resume.html')
+pagedown::chrome_print('~/Documents/Resume/Minh_RESUME.html')
 ```
