@@ -19,6 +19,7 @@ a{
   font-weight:400;
   color:black;
   font-style:italic;
+  text-decoration:underline !important;
 }
 
 @page :left {
@@ -37,10 +38,12 @@ a{
   }
 }
 
-.minh {
-  border: 1px solid #008B8B;
-  margin-top:16px;
-  padding-top:-20px !important;
+.myborder {
+  border: 1px #8db2ef;
+  display: inline-block;
+  margin-bottom:50px;
+  margin-top:-8px;
+  border-style: dotted;
 }
 
 ul {
@@ -48,12 +51,11 @@ ul {
 }
 
 ul li::before {
-  content: "\25AA"!important;  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-  color:black;
-  font-weight: bold; /* If you want it to be bold */
-  display: inline-block; /* Needed to add space between the bullet and the text */
-  width: 1em; /* Also needed for space (tweak if needed) */
-  margin-left: -1em; /* Also needed for space (tweak if needed) */
+  content: "\25AA"!important;  
+  color:gray;
+  display: inline-block; 
+  width: 1em; 
+  margin-left: -1em; 
 }
 
 * {box-sizing: border-box}
@@ -83,3 +85,4 @@ ul li::before {
 .date{
   color:gray;
 }
+

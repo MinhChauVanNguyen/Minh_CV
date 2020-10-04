@@ -17,10 +17,10 @@ Aside
 Contact {#contact}
 --------------------------------------------------------------------------------
 
- <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;margin-bottom:6px;color:#8db2ef;"></i> [<span style="text-decoration:underline !important;">minh.chau@outlook.co.nz</span>](mailto:minh.chau@outlook.co.nz)
+ <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;margin-bottom:6px;color:#8db2ef;"></i> [minh.chau@outlook.co.nz](mailto:minh.chau@outlook.co.nz)
  <br>
- <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;color:#8db2ef;"></i><span style="font-weight:400; color:black;">+64-22-036-1978</span><br>
- <i class="fa fa-github" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[Github profile](https://github.com/MinhChauVanNguyen)<br>
+ <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;color:#8db2ef;"></i><span style="font-weight:400; color:black;">*+64-22-036-1978*</span><br>
+ <i class="fa fa-github" style ="margin-left:2px;margin-top:5px;margin-right:3px;color:#8db2ef;"></i>[Github profile](https://github.com/MinhChauVanNguyen)<br>
  <i class="fa fa-home" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[Personal website](https://minhchauvannguyen.github.io/)<br>
  <i class="fa fa-linkedin" style ="margin-left:2.5px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i> [Linkedin](https://www.linkedin.com/in/minh-chau-van/)<br>
 
@@ -46,7 +46,7 @@ Packages {#packages}
 <div style = "margin-bottom:3px;"></div>
 
 
-Key Skills {#skills}
+Strengths {#skills}
 --------------------------------------------------------------------------------
 <div style="margin-bottom:20px;"></div>
 <div class="container">
@@ -65,15 +65,15 @@ Key Skills {#skills}
 
 
 <div class="container">
-  <div class="skills">Strong understanding of qualitative and quantitative methodologies</div>
+  <div class="skills">Understanding of qualitative and quantitative research methods and designs</div>
 </div>
 
 <div class="container">
-  <div class="skills">Understanding of survey design and analysis</div>
+  <div class="skills">Ability to collaborate and work independently</div>
 </div>
 
 <div class="container", style="margin-bottom:70px;">
-  <div class="skills">Familiar with time series forecasting and regression modelling</div>
+  <div class="skills">Experience with time series forecasting and regression modelling</div>
 </div>
 
 
@@ -84,7 +84,7 @@ Main
 
 <span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
 --------------------------------------------------------------------------------
-<span style="color:black;font-size:12.5px;">My career goal is to apply my knowledge in producing reliable and <br> insightful projects through the use of statistics and inform critical decision making. I currently seek a suitable job to enhance my statistical and programming skills, and contribute to New Zealand society.</span>
+<span style="color:black;font-size:12.5px;">I am a persistent and accountable graduate with more than two years experience using statistical packages. I am seeking employment that will enhance my profession as a Junior Data Analyst in producing reliable and useful statistics, and thus contribute to New Zealand society.</span>
 
 
 
@@ -124,7 +124,7 @@ Work Experience {data-icon=black-tie}
 
 <div style = "margin-top:20px;">
 
- - Communicate with client clearly to fulfill requirements
+ - Communicate with client clearly to fulfil requirements
  - Prepare and transform survey data for analysis purposes
  - Make informative graphs and tables to present key findings
  - Apply statistical methods to data to produce insightful interpretations that assist the client in making decisions
@@ -156,7 +156,7 @@ Work Experience {data-icon=black-tie}
 <div style="margin-top:20px;">
 
  - Wrangle and analyse time series data
- - Investigate and apply multiple predictive modelling methods to the data
+ - Investigate and practice predictive modelling techniques 
  - Produce an interactive Shiny dashboard to present the methodologies and their relevant statistical results
  - Co-operate with supervisor and manager to deliver according to the client’s requirements
 
@@ -172,7 +172,7 @@ Work Experience {data-icon=black-tie}
 Projects {data-icon=coffee}
 --------------------------------------------------------------------------------
 
-<div style="margin-left:65px;margin-bottom:5px;font-size:12px;">The following projects have helped me to develop my analytical, statistical writing and programming skills. They can be found in details on my personal website, [<span style="text-decoration:underline!important;color:#8db2ef !important;">**https://minhchauvannguyen.github.io/**</span>](https://minhchauvannguyen.github.io/)</span>.</div>
+<div style="margin-left:65px;margin-bottom:5px;font-size:12px;">The following projects which can be found in details on my portfolio, [<span style="text-decoration:underline!important;">*https://minhchauvannguyen.github.io/*</span>](https://minhchauvannguyen.github.io/), have helped me to develop and strengthen my analytical, programming and statistical writing abilities. </div>
 
 
 ### Statistical Consulting Assignment
@@ -181,9 +181,10 @@ Projects {data-icon=coffee}
 N/A
 
 <div style = "margin-bottom:-5px;margin-top:5px;">
- - Construct the structure of a statistical report assignment
- - Undestand the importance of descriptive statistics and explanatory analysis in choosing the appropriate analytical procedure 
- - Investigate the relationship between a categorical variable and a continuous variable using Generalised linear models (GLMs)
+ - <span style="background-color:rgba(141, 178, 239, 0.3);">Report statistical methodologies and data processes using technical documentating tools</span>
+ - Undestand the importance of explanatory analysis in choosing the appropriate statistical procedure for the given data
+ - Investigate the relationship between a categorical variable and a continuous variable using Generalised Linear Models (GLMs)
+
  </div>
 
 08/2019
@@ -197,8 +198,8 @@ N/A
 N/A
 
 <div style = "margin-bottom:-5px;margin-top:5px;">
- - Analyse count data grouped by age and gender to produce relevant statistical measures
- - Perform Poisson regression to observe the relationship between variables 
+ - <span style="background-color:rgba(141, 178, 239, 0.3);">Analyse count data grouped by age and gender to produce relevant statistical measures</span>
+ - Perform Poisson regression to understand the relationship between variables
  - Build a Shiny application from scratch 
  - Prepare and run a presentation to explain the purpose and describe the function of my Shiny app
  </div>
@@ -214,8 +215,8 @@ N/A
 N/A
 
 <div style = "margin-bottom:-5px;margin-top:5px;">
- - Practice researching methods basing on theoretical constructs and literature review under supervision
- - Research and perform cluster analysis of ordinal data 
+ - <span style="background-color:rgba(141, 178, 239, 0.3);">Practice research methods for statistical models based on theoretical constructs and literature review </span>
+ - Examine and perform the analysis of ordinal data through clustering approach
  - Evaluate and compare modes using information criteria
  - Generate a simulation study to access the consistency in the estimation of model parameters
  </div>
@@ -235,10 +236,10 @@ N/A
 N/A
 
 <div style = "margin-bottom:-5px;margin-top:5px;">
- - Construct time series models for forecasting purpose
+ - <span style="background-color:rgba(141, 178, 239, 0.3);">Construct time series models to make predictions for monthly data</span>
+ - Achieve thoroughness and emphasise details to ensure the dashboard is user-friendly and appeal to non-statistical audience
  - Build a Shiny dashboard consisting of interactive graphs and tables 
  - Track, save and update changes made to the dashboard using version control
- - Achieve thoroughness and emphasise details to ensure the dashboard is user-friendly and appeal to non-statistical audience
  </div>
 
 
@@ -255,10 +256,10 @@ N/A
 N/A
 
 <div style = "margin-bottom:-5px;margin-top:5px;">
+ - <span style="background-color:rgba(141, 178, 239, 0.3);">Interpret the outcomes to answer to the research question and make comments towards future considerations</span>
  - Analyse data in the context of medical statistics
  - Review contingency table analysis in a multi-class setting
  - Construct a Bayesian regression model and a Random forest classification model in R
- - Interpret the outcomes to answer to the research question and discuss for future considerations
  </div>
  
 09/2020
@@ -273,11 +274,15 @@ N/A
 
 
 
-:::{.aside style="top:10px;"}
+:::{.aside style="top:5px;"}
+
+<div class = "myborder" style="padding-bottom:-5px;padding-top:-5px; padding-left:6px;padding-right:3px;">
+On the left, I have highlighted the skills I learned from my projects and work experience that I think are relevant to the role description.
+</div>
 
 <div style="font-size:17.6px;color:black;font-weight:400;">LANGUAGES</div>
 
-<div style="margin-bottom:-4px;margin-top:15px;"><span style="color:#8db2ef;">❑ </span> Vietnamese (native)</div>
+<div style="margin-bottom:-4px;margin-top:15px;"><span style="color:#8db2ef;">❑ </span> Vietnamese (fluent)</div>
 <span style="color:#8db2ef;">❑ </span> English (fluent) 
 
 <div style="font-size:17.6px;color:black;font-weight:400;margin-top:60px;">REFERENCES</div>
@@ -286,20 +291,20 @@ N/A
    <span style="color:#8db2ef;">❑</span> **Shirley Wu**
 </div>
 <div style="margin-left:14px;margin-top:-10px;">
-Operation Manager </br>
+Operations Manager </br>
 Harmonic Analytics </br>
-<span style="text-decoration:underline !important;">[shirley@harmonic.co.nz](mailto:shirley@harmonic.co.nz)</span> <br>
+[shirley@harmonic.co.nz](mailto:shirley@harmonic.co.nz) <br>
 </div>
    <span style="color:#8db2ef;">❑</span> **Ploi Yibmantasiri**
-<div style="margin-left:14px;margin-top:-10px;margin-bottom:500px;">
+<div style="margin-left:14px;margin-top:-10px;margin-bottom:425px;">
 Data Scientist </br>
 Harmonic Analytics </br>
-<span style="text-decoration:underline !important;">[ploi@harmonic.co.nz](mailto:ploi@harmonic.co.nz)</span>
+[ploi@harmonic.co.nz](mailto:ploi@harmonic.co.nz)
 </div>
 
 
 
-*This resume was made with the R package [<span style ="color:#8db2ef">**pagedown**</span>](https://github.com/rstudio/pagedown)*.
+*This resume was made with the R package <span style ="color:#8db2ef;font-weight:bold;">pagedown</span>*.
 
 
 :::
