@@ -20,6 +20,7 @@ a{
   color:black;
   font-style:italic;
   text-decoration:underline !important;
+  cursor: pointer;
 }
 
 @page :left {
@@ -48,6 +49,11 @@ a{
 
 ul {
   list-style: none;
+  font-size:11px;
+}
+
+ul li{
+ font-size:12px;
 }
 
 ul li::before {
@@ -80,6 +86,11 @@ ul li::before {
 .fa{
   color:#8db2ef;
   font-weight:bold;
+}
+
+*.fa-globe{
+  float:right;
+  margin-right:2.5px;
 }
 
 .date{

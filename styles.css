@@ -1,0 +1,87 @@
+body, h4, h5, h6, p, ul, ol{
+  font-family:Helvetica;
+  color:black;
+  font-weight:450;
+}
+
+:root {
+  --sidebar-background-color:aliceblue; 
+  --decorator-border: 2px solid  #bdd7e7; 
+  --decorator-outer-dim:5px;
+}
+
+.decorator::after {
+    background-color:aliceblue;
+    border:1.5px solid #8db2ef;
+}
+
+a{
+  font-weight:400;
+  color:black;
+  font-style:italic;
+  text-decoration:underline !important;
+}
+
+@page :left {
+  @bottom-left {
+    content: counter(page);
+    font-weight:bold;
+    font-size:10px;
+  }
+}
+
+@page :right {
+  @bottom-left {
+    content: counter(page);
+    font-weight:bold;
+    font-size:10px
+  }
+}
+
+.myborder {
+  border: 1px #8db2ef;
+  display: inline-block;
+  margin-bottom:50px;
+  margin-top:-8px;
+  border-style: dotted;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li::before {
+  content: "\25AA"!important;  
+  color:gray;
+  display: inline-block; 
+  width: 1em; 
+  margin-left: -1em; 
+}
+
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: aliceblue;
+}
+
+.skills {
+  text-align: left;
+  display: inline-block;
+  padding-top: 0;
+  padding-bottom: 0;
+  color: black;
+  width: 100%; 
+  background-color:rgba(141, 178, 239, 0.4);
+  margin-bottom:10px;
+  border-radius:5px;
+}
+
+.fa{
+  color:#8db2ef;
+  font-weight:bold;
+}
+
+.date{
+  color:gray;
+}

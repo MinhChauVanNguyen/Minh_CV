@@ -65,7 +65,7 @@ Strengths {#skills}
 
 
 <div class="container">
-  <div class="skills">Understanding of qualitative and quantitative research methods and designs</div>
+  <div class="skills">Knowledge of qualitative and quantitative research methods and designs</div>
 </div>
 
 <div class="container">
@@ -73,7 +73,7 @@ Strengths {#skills}
 </div>
 
 <div class="container", style="margin-bottom:70px;">
-  <div class="skills">Experience with time series forecasting and regression modelling</div>
+  <div class="skills">Good understanding of applied statistics and machine learning to real life data</div>
 </div>
 
 
@@ -84,7 +84,7 @@ Main
 
 <span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
 --------------------------------------------------------------------------------
-<span style="color:black;font-size:12.5px;">I am a persistent and accountable graduate with more than two years experience using statistical packages. I am seeking employment that will enhance my profession as a Junior Data Analyst in producing reliable and useful statistics, and thus contribute to New Zealand society.</span>
+<span style="color:black;font-size:12.5px;">I am a persistent and accountable graduate with more than two years experience using statistical analysis and reporting packages. I am seeking employment that will enhance my profession as a Data Analyst in producing reliable statistics, and thus contribute to New Zealand society.</span>
 
 
 
@@ -157,8 +157,8 @@ Work Experience {data-icon=black-tie}
 
  - Wrangle and analyse time series data
  - Investigate and practice predictive modelling techniques 
- - Produce an interactive Shiny dashboard to present the methodologies and their relevant statistical results
- - Co-operate with supervisor and manager to deliver according to the client’s requirements
+ - Produce an interactive Shiny dashboard to present the methodologies and significant statistical results
+ - Co-operate with supervisor and manager to deliver according to the client’s requirements and ensure data quality is optimised
 
 </div>
 
@@ -172,99 +172,80 @@ Work Experience {data-icon=black-tie}
 Projects {data-icon=coffee}
 --------------------------------------------------------------------------------
 
-<div style="margin-left:65px;margin-bottom:5px;font-size:12px;">The following projects which can be found in details on my portfolio, [<span style="text-decoration:underline!important;">*https://minhchauvannguyen.github.io/*</span>](https://minhchauvannguyen.github.io/), have helped me to develop and strengthen my analytical, programming and statistical writing abilities. </div>
+<div style="margin-left:65px;margin-bottom:5px;font-size:12px;">The following projects which can be found in details on my portfolio, [*https://minhchauvannguyen.github.io/*](https://minhchauvannguyen.github.io/), have helped me to develop and strengthen my analytical, programming and reporting outcomes abilities. </div>
 
 
-### Statistical Consulting Assignment
-<span>*Key skills I learned*</span>
+### Statistical Consulting Assignment <span style="font-size:11px;float:right;">[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)</span><i class="fa fa-globe"></i>
+
+<span style = "line-height:150%;">*Role requirement*</span> : Experience reporting on outcomes, trends and targets, to outline performance and identify opportunities <br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Relevant key skills*</span>
 
 N/A
-
-<div style = "margin-bottom:-5px;margin-top:5px;">
- - <span style="background-color:rgba(141, 178, 239, 0.3);">Report statistical methodologies and data processes using technical documentating tools</span>
- - Undestand the importance of explanatory analysis in choosing the appropriate statistical procedure for the given data
- - Investigate the relationship between a categorical variable and a continuous variable using Generalised Linear Models (GLMs)
-
- </div>
 
 08/2019
 
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)
+-  Apply explanatory analysis and descriptive statistics to identify trends and patterns in the given data
+ - Report statistical methodologies and data processes using technical documenting tools
 
 
-### Kaggle Data Shiny Application
-<span>*Key skills I learned*</span>
+<div style="margin-bottom:20px;">
+</div>
+
+### Kaggle Data Shiny Application <span style="font-size:11px;float:right;">[Link](https://minhchau.shinyapps.io/kaggle-application/)</span><i class="fa fa-globe"></i>
+
+<span style = "line-height:150%;">*Role requirement*</span> : Strong analytical skills with the ability to organise, analyse and disseminate significant amounts of information with attention to detail and accuracy<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Relevant key skill*</span>
 
 N/A
 
-<div style = "margin-bottom:-5px;margin-top:5px;">
- - <span style="background-color:rgba(141, 178, 239, 0.3);">Analyse count data grouped by age and gender to produce relevant statistical measures</span>
- - Perform Poisson regression to understand the relationship between variables
- - Build a Shiny application from scratch 
- - Prepare and run a presentation to explain the purpose and describe the function of my Shiny app
- </div>
- 
 09/2019
 
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/kaggle-application/)
+ - Manipulate and analyse quantitative data to produce relevant statistical measures
 
 
-### Cluster Analysis Research Project
-<span>*Key skills I learned*</span>
+<div style="margin-bottom:20px;">
+</div>
+
+
+### Cluster Analysis Research Project <span style="font-size:11px;float:right;">[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)</span><i class="fa fa-globe"></i>
+
+<span style = "line-height:150%;">*Role requirement*</span> : Ability to generate reports from the information<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Relevant key skill*</span>
 
 N/A
-
-<div style = "margin-bottom:-5px;margin-top:5px;">
- - <span style="background-color:rgba(141, 178, 239, 0.3);">Practice research methods for statistical models based on theoretical constructs and literature review </span>
- - Examine and perform the analysis of ordinal data through clustering approach
- - Evaluate and compare modes using information criteria
- - Generate a simulation study to access the consistency in the estimation of model parameters
- </div>
- 
 
 02/2020
 
-<i class="fa fa-globe" style = "color:#8db2ef;;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)
+ - Research statistical methods to analyse ordinal data to produce research oriented report based on theoretical constructs and literature review 
 
 
+<div style="margin-bottom:20px;">
+</div>
 
 
-### Time Series Analysis Shiny Dashboard for Orange data
+### Time Series Analysis Shiny Dashboard <span style="font-size:11px;float:right;">[Link](https://minhchau.shinyapps.io/oranges/)</span><i class="fa fa-globe"></i>
 
-<span>*Key skills I learned*</span>
+<span style = "line-height:150%;">*Role requirement*</span> : Experience reporting on outcomes, trends and targets, to outline performance and identify opportunities with attention to detail and accuracy<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Relevant key skills*</span>
 
 N/A
-
-<div style = "margin-bottom:-5px;margin-top:5px;">
- - <span style="background-color:rgba(141, 178, 239, 0.3);">Construct time series models to make predictions for monthly data</span>
- - Achieve thoroughness and emphasise details to ensure the dashboard is user-friendly and appeal to non-statistical audience
- - Build a Shiny dashboard consisting of interactive graphs and tables 
- - Track, save and update changes made to the dashboard using version control
- </div>
-
-
 
 06/2020
 
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/oranges/)
+ - Design a Shiny dashboard consisting of interactive graphs and tables and ensure it is user-friendly and appeals to non-technical audience
+ - Use graphs to detect unusual trends and patterns in time series data 
 
 
-### ICMR in patients under 18 years old follow-up report 
+<div style="margin-bottom:20px;">
+</div>
 
-<span>*Key skills I learned*</span>
+
+### ICMR in patients under 18 years old follow-up report <span style="font-size:11px;float:right;">[Link](https://drive.google.com/file/d/1_94PQm6wHnYZ_Qo5SaU1i92-ZkW2iqtc/view)</span><i class="fa fa-globe"></i>
+
+<span style = "line-height:150%;">*Role requirement*</span> : Ability to generate reports from the information<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Relevant key skills*</span>
 
 N/A
 
-<div style = "margin-bottom:-5px;margin-top:5px;">
- - <span style="background-color:rgba(141, 178, 239, 0.3);">Interpret the outcomes to answer to the research question and make comments towards future considerations</span>
- - Analyse data in the context of medical statistics
- - Review contingency table analysis in a multi-class setting
- - Construct a Bayesian regression model and a Random forest classification model in R
- </div>
- 
 09/2020
 
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1_94PQm6wHnYZ_Qo5SaU1i92-ZkW2iqtc/view)
+ - Generate a report to summarise the applications of different statistical techniques to health data and highlight key findings
+ - Interpret the outcomes to answer to the research question and make comments towards future considerations
 
 
 <div style="margin-bottom:20px;">
@@ -277,7 +258,7 @@ N/A
 :::{.aside style="top:5px;"}
 
 <div class = "myborder" style="padding-bottom:-5px;padding-top:-5px; padding-left:6px;padding-right:3px;">
-On the left, I have highlighted the skills I learned from my projects and work experience that I think are relevant to the role description.
+On the left of this page, I have outlined the skills I learned from my projects and work experience that I think are closely related to the job description.
 </div>
 
 <div style="font-size:17.6px;color:black;font-weight:400;">LANGUAGES</div>

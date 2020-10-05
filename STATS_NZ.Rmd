@@ -1,0 +1,315 @@
+---
+title: "Minh Chau"
+author: Minh Chau
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ["resume", "styles.css"]
+    self_contained: true
+---
+
+
+
+Aside
+================================================================================
+
+<div style="margin-top:-40px;">
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+ <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;margin-bottom:6px;color:#8db2ef;"></i> [minh.chau@outlook.co.nz](mailto:minh.chau@outlook.co.nz)
+ <br>
+ <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;color:#8db2ef;"></i><span style="font-weight:400; color:black;">*+64-22-036-1978*</span><br>
+ <i class="fa fa-github" style ="margin-left:2px;margin-top:5px;margin-right:3px;color:#8db2ef;"></i>[Github profile](https://github.com/MinhChauVanNguyen)<br>
+ <i class="fa fa-home" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[Personal website](https://minhchauvannguyen.github.io/)<br>
+ <i class="fa fa-linkedin" style ="margin-left:2.5px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i> [Linkedin](https://www.linkedin.com/in/minh-chau-van/)<br>
+
+</div>
+
+Packages {#packages}
+--------------------------------------------------------------------------------
+<div style="margin-top:10px;">
+</div>
+**Statistical Programming:** <br>
+   <span style="margin-left:10px;color:#8db2ef;">❑</span> Experience with R  <br>
+   <span style="margin-left:10px;color:#8db2ef;">❑</span> Exposure to SAS, SPSS, SQL</span> <br>
+<div style = "margin-bottom:3px;"></div>
+**Web development:**  HTML, CSS <br>
+<div style = "margin-bottom:3px;"></div>
+**Machine learning:** Python (Entry level)<br>
+<div style = "margin-bottom:3px;"></div>
+**Reporting:** R Markdown, Shiny, Latex<br>
+<div style = "margin-bottom:3px;"></div>
+**Workflow:** Github, Gitlab<br>
+<div style = "margin-bottom:3px;"></div>
+**MS Office:** Excel, Power Point, Word<br>
+<div style = "margin-bottom:3px;"></div>
+
+
+Strengths {#skills}
+--------------------------------------------------------------------------------
+<div style="margin-bottom:20px;"></div>
+<div class="container">
+  <div class="skills">Experience with data wrangling and statistical analysing</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Build and maintain professional work relationships</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Fluent ability to create evidence-based reports</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Understanding of qualitative and quantitative research methods and designs</div>
+</div>
+
+<div class="container">
+  <div class="skills">Ability to collaborate and work independently</div>
+</div>
+
+<div class="container", style="margin-bottom:70px;">
+  <div class="skills">Experience with time series forecasting and regression modelling</div>
+</div>
+
+
+
+
+Main
+================================================================================
+
+<span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
+--------------------------------------------------------------------------------
+<span style="color:black;font-size:12.5px;">I am a persistent and accountable graduate with more than two years experience using statistical packages. I am seeking employment that will enhance my profession as a Junior Data Analyst in producing reliable and useful statistics, and thus contribute to New Zealand society.</span>
+
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Master of Applied Statistics
+
+<span>Victoria University of Wellington</span>
+
+<span>Wellington, NZ</span>
+
+03/2019 - 06/2020
+
+### Bachelor of Science in Statistics
+
+<span>Otago University</span>
+
+<span>Dunedin, NZ</span>
+
+03/2015 - 06/2019
+
+<div style="margin-bottom:15px;">
+</div>
+
+
+
+Work Experience {data-icon=black-tie}
+--------------------------------------------------------------------------------
+
+### Research Assistant
+
+<span>Massey University Wellington</span>
+
+<span>Wellington, NZ</span>
+
+<div style = "margin-top:20px;">
+
+ - Communicate with client clearly to fulfil requirements
+ - Prepare and transform survey data for analysis purposes
+ - Make informative graphs and tables to present key findings
+ - Apply statistical methods to data to produce insightful interpretations that assist the client in making decisions
+</div>
+
+08/2020 - current
+
+### Sessional Assistant
+
+<span>Victoria University of Wellington</span>
+
+<span>Wellington, NZ</span>
+
+<div style = "margin-top:20px;">
+
+ - Mark 100-level statistics assignments and projects
+ - Attend to training and meetings
+ - Enter assignment grades correctly and in accordance with the marking system's guidelines
+</div>
+
+04/2020 - current
+
+### Intern/Data Analyst
+
+<span>Harmonic Analytics</span>
+
+<span>Wellington, NZ</span>
+
+<div style="margin-top:20px;">
+
+ - Wrangle and analyse time series data
+ - Investigate and practice predictive modelling techniques 
+ - Produce an interactive Shiny dashboard to present the methodologies and their relevant statistical results
+ - Co-operate with supervisor and manager to deliver according to the client’s requirements
+
+</div>
+
+03/2020 - 06/2020
+
+
+<div style="margin-bottom:20px;">
+</div>
+
+
+Projects {data-icon=coffee}
+--------------------------------------------------------------------------------
+
+<div style="margin-left:65px;margin-bottom:5px;font-size:12px;">The following projects which can be found in details on my portfolio, [<span style="text-decoration:underline!important;">*https://minhchauvannguyen.github.io/*</span>](https://minhchauvannguyen.github.io/), have helped me to develop and strengthen my analytical, programming and statistical writing abilities. </div>
+
+
+### Statistical Consulting Assignment
+<span>*Key skills I learned*</span>
+
+N/A
+
+<div style = "margin-bottom:-5px;margin-top:5px;">
+ - <span style="background-color:rgba(141, 178, 239, 0.3);">Report statistical methodologies and data processes using technical documenting tools</span>
+ - Understand the importance of explanatory analysis in choosing the appropriate statistical procedure for the given data
+ - Investigate the relationship between a categorical variable and a continuous variable using Generalised Linear Models (GLMs)
+
+ </div>
+
+08/2019
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)
+
+
+### Kaggle Data Shiny Application
+<span>*Key skills I learned*</span>
+
+N/A
+
+<div style = "margin-bottom:-5px;margin-top:5px;">
+ - <span style="background-color:rgba(141, 178, 239, 0.3);">Analyse count data grouped by age and gender to produce relevant statistical measures</span>
+ - Perform Poisson regression to understand the relationship between variables
+ - Build a Shiny application from scratch 
+ - Prepare and run a presentation to explain the purpose and describe the function of my Shiny app
+ </div>
+ 
+09/2019
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/kaggle-application/)
+
+
+### Cluster Analysis Research Project
+<span>*Key skills I learned*</span>
+
+N/A
+
+<div style = "margin-bottom:-5px;margin-top:5px;">
+ - <span style="background-color:rgba(141, 178, 239, 0.3);">Practice research methods for statistical models based on theoretical constructs and literature review </span>
+ - Examine and perform the analysis of ordinal data through clustering approach
+ - Evaluate and compare modes using information criteria
+ - Generate a simulation study to access the consistency in the estimation of model parameters
+ </div>
+ 
+
+02/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)
+
+
+
+
+### Time Series Analysis Shiny Dashboard for Orange data
+
+<span>*Key skills I learned*</span>
+
+N/A
+
+<div style = "margin-bottom:-5px;margin-top:5px;">
+ - <span style="background-color:rgba(141, 178, 239, 0.3);">Construct time series models to make predictions for monthly data</span>
+ - Achieve thoroughness and emphasise details to ensure the dashboard is user-friendly and appeal to non-statistical audience
+ - Build a Shiny dashboard consisting of interactive graphs and tables 
+ - Track, save and update changes made to the dashboard using version control
+ </div>
+
+
+
+06/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/oranges/)
+
+
+### ICMR in patients under 18 years old follow-up report 
+
+<span>*Key skills I learned*</span>
+
+N/A
+
+<div style = "margin-bottom:-5px;margin-top:5px;">
+ - <span style="background-color:rgba(141, 178, 239, 0.3);">Interpret the outcomes to answer to the research question and make comments towards future considerations</span>
+ - Analyse data in the context of medical statistics
+ - Review contingency table analysis in a multi-class setting
+ - Construct a Bayesian regression model and a Random forest classification model in R
+ </div>
+ 
+09/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1_94PQm6wHnYZ_Qo5SaU1i92-ZkW2iqtc/view)
+
+
+<div style="margin-bottom:20px;">
+</div>
+
+
+
+
+
+:::{.aside style="top:5px;"}
+
+<div class = "myborder" style="padding-bottom:-5px;padding-top:-5px; padding-left:6px;padding-right:3px;">
+On the left, I have highlighted the skills I learned from my projects and work experience that I think are relevant to the role description.
+</div>
+
+<div style="font-size:17.6px;color:black;font-weight:400;">LANGUAGES</div>
+
+<div style="margin-bottom:-4px;margin-top:15px;"><span style="color:#8db2ef;">❑ </span> Vietnamese (fluent)</div>
+<span style="color:#8db2ef;">❑ </span> English (fluent) 
+
+<div style="font-size:17.6px;color:black;font-weight:400;margin-top:60px;">REFERENCES</div>
+
+<div style="margin-top:15px">
+   <span style="color:#8db2ef;">❑</span> **Shirley Wu**
+</div>
+<div style="margin-left:14px;margin-top:-10px;">
+Operations Manager </br>
+Harmonic Analytics </br>
+[shirley@harmonic.co.nz](mailto:shirley@harmonic.co.nz) <br>
+</div>
+   <span style="color:#8db2ef;">❑</span> **Ploi Yibmantasiri**
+<div style="margin-left:14px;margin-top:-10px;margin-bottom:425px;">
+Data Scientist </br>
+Harmonic Analytics </br>
+[ploi@harmonic.co.nz](mailto:ploi@harmonic.co.nz)
+</div>
+
+
+
+*This resume was made with the R package <span style ="color:#8db2ef;font-weight:bold;">pagedown</span>*.
+
+
+:::
+
+
+```{r echo = FALSE,eval = FALSE}
+pagedown::chrome_print('~/Documents/Resume/Minh_CV.html')
+```
