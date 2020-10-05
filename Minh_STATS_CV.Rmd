@@ -72,8 +72,12 @@ Strengths {#skills}
   <div class="skills">Ability to collaborate and work independently</div>
 </div>
 
+<div class="container">
+  <div class="skills">Knowledge of applied statistics and machine learning in real-life setting </div>
+</div>
+
 <div class="container", style="margin-bottom:70px;">
-  <div class="skills">Knowdlege of applied statistics and machine learning in real-life setting </div>
+  <div class="skills">Experience with time series forecasting and regression modelling</div>
 </div>
 
 
@@ -155,9 +159,8 @@ Work Experience {data-icon=black-tie}
 
 <div style="margin-top:20px;">
 
- - Wrangle and analyse time series data
- - Investigate and practice predictive modelling techniques 
- - Produce an interactive Shiny dashboard to present the methodologies and significant statistical results
+ - Extract, wrangle and analyse time series data to make monthly and yearly predictions
+ - Produce an interactive Shiny dashboard to present predictive techniques and significant statistical results
  - Co-operate with supervisor and manager to deliver according to the client’s requirements and ensure data quality is optimised
 
 </div>
@@ -190,19 +193,6 @@ N/A
 <div style="margin-bottom:20px;">
 </div>
 
-### Kaggle Data Shiny Application <span style="font-size:11px;float:right;">[Link](https://minhchau.shinyapps.io/kaggle-application/)</span><i class="fa fa-globe"></i>
-
-<span style = "line-height:150%;">*Role requirement*</span> : Experience analysing data and presenting data<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Relevant key skill*</span>
-
-N/A
-
-09/2019
-
- - Manipulate and analyse quantitative data to produce relevant statistical measures
-
-
-<div style="margin-bottom:20px;">
-</div>
 
 
 ### Cluster Analysis Research Project <span style="font-size:11px;float:right;">[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)</span><i class="fa fa-globe"></i>
@@ -213,7 +203,7 @@ N/A
 
 02/2020
 
- - Research statistical methods to analyse qualitative data to produce research oriented report based on theoretical constructs and literature review 
+ - Apply research statistical methods to ordinal data and produce research oriented report based on theoretical constructs and literature review 
 
 
 <div style="margin-bottom:20px;">
@@ -222,7 +212,7 @@ N/A
 
 ### Time Series Analysis Shiny Dashboard <span style="font-size:11px;float:right;">[Link](https://minhchau.shinyapps.io/oranges/)</span><i class="fa fa-globe"></i>
 
-<span style = "line-height:150%;">*Role requirement*</span> : Experience producing high quality documentation aimed at a range of audiences<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Relevant key skills*</span>
+<span style = "line-height:150%;">*Role requirement*</span> : Experience analysing data and presenting data<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Relevant key skills*</span>
 
 N/A
 
@@ -238,7 +228,7 @@ N/A
 
 ### ICMR in patients under 18 years old follow-up report <span style="font-size:11px;float:right;">[Link](https://drive.google.com/file/d/1_94PQm6wHnYZ_Qo5SaU1i92-ZkW2iqtc/view)</span><i class="fa fa-globe"></i>
 
-<span style = "line-height:150%;">*Role requirement*</span> - Experience producing high quality documentation aimed at a range of audiencesz<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Relevant key skills*</span>
+<span style = "line-height:150%;">*Role requirement*</span> - Experience producing high quality documentation aimed at a range of audiences<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Relevant key skills*</span>
 
 N/A
 
