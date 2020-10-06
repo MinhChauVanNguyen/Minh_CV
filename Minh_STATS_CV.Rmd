@@ -73,7 +73,7 @@ Strengths {#skills}
 </div>
 
 <div class="container">
-  <div class="skills">Knowledge of applied statistics and machine learning in real-life setting </div>
+  <div class="skills">Understanding of survey design and analysis</div>
 </div>
 
 <div class="container", style="margin-bottom:70px;">
@@ -88,7 +88,7 @@ Main
 
 <span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
 --------------------------------------------------------------------------------
-<span style="color:black;font-size:12.5px;">I am a persistent and accountable graduate with more than two years experience using statistical analysis and reporting softwares. I am seeking employment that will enhance my profession as a Data Analyst in producing reliable statistics, and thus contribute to New Zealand society.</span>
+<span style="color:black;font-size:12.5px;">I am a persistent and accountable graduate with more than two years experience using statistical analysis and reporting software packages. I am seeking employment that will enhance my profession as a Data Analyst in producing reliable statistics, and thus contribute to New Zealand society.</span>
 
 
 
@@ -128,7 +128,7 @@ Work Experience {data-icon=black-tie}
 
 <div style = "margin-top:20px;">
 
- - Communicate with client clearly to fulfil requirements
+ - Communicate with the client clearly to fulfil requirements
  - Prepare and transform survey data for analysis purposes
  - Make informative graphs and tables to present key findings
  - Apply statistical methods to data to produce insightful interpretations that assist the client in making decisions
@@ -203,7 +203,7 @@ N/A
 
 02/2020
 
- - Apply research statistical methods to ordinal data and produce research oriented report based on theoretical constructs and literature review 
+ - Apply research statistical methods to ordinal data and produce research-oriented report based on theoretical constructs and literature review 
 
 
 <div style="margin-bottom:20px;">
