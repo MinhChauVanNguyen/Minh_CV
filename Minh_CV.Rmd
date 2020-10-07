@@ -37,6 +37,7 @@ Packages {#packages}
 **Web development:**  HTML, CSS <br>
 <div style = "margin-bottom:3px;"></div>
 **Machine learning:** Python (Entry level)<br>
+**Data visualisation:** PowerBI
 <div style = "margin-bottom:3px;"></div>
 **Reporting:** R Markdown, Shiny, Latex<br>
 <div style = "margin-bottom:3px;"></div>
@@ -44,6 +45,7 @@ Packages {#packages}
 <div style = "margin-bottom:3px;"></div>
 **MS Office:** Excel, Power Point, Word<br>
 <div style = "margin-bottom:3px;"></div>
+
 
 
 Strengths {#skills}
@@ -72,10 +74,6 @@ Strengths {#skills}
   <div class="skills">Ability to collaborate and work independently</div>
 </div>
 
-<div class="container", style="margin-bottom:70px;">
-  <div class="skills">Strong data presentation and data visualisation skills</div>
-</div>
-
 
 
 
@@ -84,7 +82,7 @@ Main
 
 <span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
 --------------------------------------------------------------------------------
-<span style="color:black;font-size:12.5px;">I am a persistent and accountable graduate with more than two years experience using statistical analysis and reporting software. I am seeking employment that will enhance my profession as a Data Analyst in producing reliable statistics, and thus contribute to New Zealand society.</span>
+<span style="color:black;font-size:12.5px;">I am a persistent and accountable graduate with more than two years experience using statistical analysis and reporting software. I am seeking employment that will enhance my profession as a Data Scientist in producing reliable statistics, and thus contribute to New Zealand society.</span>
 
 
 
@@ -108,8 +106,6 @@ Education {data-icon=graduation-cap data-concise=true}
 
 03/2015 - 06/2019
 
-<div style="margin-bottom:15px;">
-</div>
 
 
 
