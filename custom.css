@@ -1,16 +1,26 @@
 body, h4, h5, h6, p, ul, ol{
-  font-family:Calibri;
+  font-family:Helvetica;
+  color:black;
+  font-weight:450;
 }
 
 :root {
   --sidebar-background-color:aliceblue; 
-  --decorator-outer-dim: 10px; 
-  --decorator-border: 2px solid #008B8B; 
+  --decorator-border: 2px solid  #bdd7e7; 
+  --decorator-outer-dim:5px;
+}
+
+.decorator::after {
+    background-color:aliceblue;
+    border:1.5px solid #8db2ef;
 }
 
 a{
-  color:#008B8B;
-  font-weight:bold;
+  font-weight:400;
+  color:black;
+  font-style:italic;
+  text-decoration:underline !important;
+  cursor: pointer;
 }
 
 @page :left {
@@ -29,3 +39,64 @@ a{
   }
 }
 
+.myborder {
+  border: 1px #8db2ef;
+  display: inline-block;
+  margin-bottom:50px;
+  margin-top:-8px;
+  border-style: dotted;
+}
+
+ul {
+  list-style: none;
+  font-size:11px;
+}
+
+ul li{
+ font-size:12px;
+}
+
+ul li::before {
+  content: "\25AA"!important;  
+  color:gray;
+  display: inline-block; 
+  width: 1em; 
+  margin-left: -1em; 
+}
+
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: aliceblue;
+}
+
+.skills {
+  text-align: left;
+  display: inline-block;
+  padding-top: 0;
+  padding-bottom: 0;
+  color: black;
+  width: 100%; 
+  background-color:rgba(141, 178, 239, 0.4);
+  margin-bottom:10px;
+  border-radius:5px;
+}
+
+.fa{
+  color:#8db2ef;
+  font-weight:bold;
+}
+
+*.fa-globe{
+  float:right;
+  margin-right:2.5px;
+}
+
+.date{
+  color:gray;
+}
+
+/*<div class = "myborder" style="padding-bottom:-5px;padding-top:-5px; padding-left:6px;padding-right:3px;">
+On the left of this page, I have outlined the skills I learned from my projects that I think are closely related to the job description.
+</div>*/

@@ -4,7 +4,7 @@ author: Minh Chau
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    css: ["resume", "custom.css"]
+    css: ["resume", "customs.css"]
     self_contained: true
 ---
 
