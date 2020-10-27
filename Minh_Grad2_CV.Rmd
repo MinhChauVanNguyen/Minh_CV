@@ -36,11 +36,11 @@ Packages {#packages}
 <div style = "margin-bottom:3px;"></div>
 **Web development:**  HTML, CSS <br>
 <div style = "margin-bottom:3px;"></div>
-**Machine learning:** Python (Beginner level)<br>
+**Machine learning:** Python<br>
 <div style = "margin-bottom:3px;"></div>
-**Data visualisation:** PowerBI
+**Reporting:** R Markdown, Latex<br>
 <div style = "margin-bottom:3px;"></div>
-**Reporting:** R Markdown, Shiny, Latex<br>
+**Data Visualisation:** Shiny, Dash<br>
 <div style = "margin-bottom:3px;"></div>
 **Workflow:** Github, Gitlab<br>
 <div style = "margin-bottom:3px;"></div>
@@ -61,11 +61,9 @@ Strengths {#skills}
   <div class="skills">Build and maintain professional work relationships</div>
 </div>
 
-
 <div class="container">
-  <div class="skills">Familiar with the application of model performance and accuracy metrics</div>
+  <div class="skills">Fluent ability to create evidence-based reports</div>
 </div>
-
 
 <div class="container">
   <div class="skills">Experience with time series forecasting and predictive modelling techniques</div>
@@ -83,7 +81,7 @@ Main
 
 <span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
 --------------------------------------------------------------------------------
-<span style="color:black;font-size:12.5px;">I am a persistent and accountable graduate with more than two years experience using statistical analysis and reporting software. I am seeking employment that will enhance my profession as a Data Analyst in producing reliable statistics, and thus contribute to New Zealand society.</span>
+<span style="color:black;font-size:12.5px;">I am a persistent and accountable graduate with more than two years experience using IT analytics and reporting software. I am now seeking employment that will enhance my profession as a Junior Data Analyst in producing reliable statistics, and thus contribute to New Zealand society.</span>
 
 
 
@@ -123,9 +121,9 @@ Work Experience {data-icon=black-tie}
 <div style = "margin-top:20px;">
 
  - Communicate with the client clearly to fulfil requirements
- - Prepare and transform survey data for analysis purposes
+ - Prepare and transform survey data for analytical purposes
  - Create informative graphs and tables to present key findings
- - Apply statistical methods to data to produce insightful interpretations that assist the client in making decisions
+ - Apply statistical methods to data and produce insightful interpretations in plain English
 </div>
 
 08/2020 - current
@@ -200,7 +198,7 @@ N/A
 
 ### Cluster Analysis Research Project <span style="font-size:11px;float:right;">[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)</span><i class="fa fa-globe"></i>
 
-<span style = "line-height:150%;">*Objective*</span> : Outline the research methods neccessary for the analysis of ordinal and binary lingustics data. <br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Key skill learned*</span>
+<span style = "line-height:150%;">*Objective*</span> : Outline the research methods neccessary for the analysis of ordinal and binary lingustics data. <br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Key skills learned*</span>
 
 N/A
 
