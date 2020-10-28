@@ -40,7 +40,7 @@ Packages {#packages}
 <div style = "margin-bottom:3px;"></div>
 **Reporting:** R Markdown, Latex<br>
 <div style = "margin-bottom:3px;"></div>
-**Data Visualisation:** Shiny, Dash<br>
+**Data Visualisation:** Shiny, Flexdashboard, Dash<br>
 <div style = "margin-bottom:3px;"></div>
 **Workflow:** Github, Gitlab<br>
 <div style = "margin-bottom:3px;"></div>
