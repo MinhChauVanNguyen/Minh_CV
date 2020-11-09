@@ -291,5 +291,5 @@ Harmonic Analytics </br>
 
 
 ```{r echo = FALSE,eval = FALSE}
-pagedown::chrome_print('~/Documents/Resume/Minh_Grad1_CV.html')
+pagedown::chrome_print('~/Documents/Resume/Minh_Grad2_CV.html')
 ```
