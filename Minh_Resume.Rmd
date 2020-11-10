@@ -36,13 +36,15 @@ Packages {#packages}
 <div style = "margin-bottom:3px;"></div>
 **Web development:**  HTML, CSS <br>
 <div style = "margin-bottom:3px;"></div>
-**Machine learning:** Python (Beginner level)<br>
+**Machine learning:** Python<br>
 <div style = "margin-bottom:3px;"></div>
-**Reporting:** R Markdown, Shiny, Latex<br>
+**Reporting:** R Markdown, Latex<br>
+<div style = "margin-bottom:3px;"></div>
+**Data Visualisation:** Shiny, Flexdashboard, Dash<br>
 <div style = "margin-bottom:3px;"></div>
 **Workflow:** Github, Gitlab<br>
 <div style = "margin-bottom:3px;"></div>
-**MS Office:** Excel, Power Point, Word<br>
+**MS Office:** Excel (Analysis TookPak), Power Point, Word<br>
 <div style = "margin-bottom:3px;"></div>
 
 
@@ -61,16 +63,19 @@ Strengths {#skills}
 
 
 <div class="container">
-  <div class="skills">Familiar with the application of model performance and accuracy metrics</div>
-</div>
-
-
-<div class="container">
-  <div class="skills">Experience with time series forecasting and predictive modelling techniques</div>
+  <div class="skills">Fluent ability to document data <br> processes and outcomes through evidence-based statistical reports</div>
 </div>
 
 <div class="container">
-  <div class="skills">Knowledge of quantitative and qualitative research methods and analyses</div>
+  <div class="skills">Advanced data visualisation and data presentation skills</div>
+</div>
+
+<div class="container">
+  <div class="skills">Knowledge of quantitative and qualitative modeling methods</div>
+</div>
+
+<div class="container">
+  <div class="skills">Ability to collaborate and work independently</div>
 </div>
 
 
@@ -82,8 +87,6 @@ Main
 <span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
 --------------------------------------------------------------------------------
 <span style="color:black;font-size:12.5px;">I am a persistent and accountable graduate with more than two years experience using statistical analysis and reporting software. I am seeking employment that will enhance my profession as a Data Analyst in producing reliable statistics, and thus contribute to New Zealand society.</span>
-
-
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -103,7 +106,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 <span>Dunedin, NZ</span>
 
-03/2015 - 06/2019
+03/2015 - 06/2018
 
 
 <div style = "margin-top:20px;"></div>
@@ -121,9 +124,9 @@ Work Experience {data-icon=black-tie}
 <div style = "margin-top:20px;">
 
  - Communicate with the client clearly to fulfil requirements
- - Prepare and transform survey data for analysis purposes
+ - Prepare and transform survey data for analytical purposes
  - Create informative graphs and tables to present key findings
- - Apply statistical methods to data to produce insightful interpretations that assist the client in making decisions
+ - Apply statistical methods to data and produce insightful interpretations in plain English
 </div>
 
 08/2020 - current
@@ -156,7 +159,7 @@ Work Experience {data-icon=black-tie}
 
 <div style="margin-top:20px;">
 
- - Extract, wrangle and analyse time series data to draw appropriate interpretations and conclusions
+ - Extract, transform and analyse time series data to draw appropriate interpretations and conclusions
  - Construct time series models to make monthly and yearly predictions
  - Produce an interactive Shiny dashboard to present predictive techniques and significant statistical results
  - Co-operate with supervisor and manager to deliver according to the client’s requirements and ensure data quality is optimised
@@ -167,6 +170,10 @@ Work Experience {data-icon=black-tie}
 03/2020 - 06/2020
 
 <div style = "margin-bottom:30px;"></div>
+
+
+
+
 
 
 Projects {data-icon=coffee}
@@ -205,7 +212,7 @@ N/A
 02/2020
 
  - Research clustering methods for analysing qualitative data
- - Construct and compare statistical models under theoretical framework
+ - Construct and compare ordinal models under theoretical framework
 
 
 <div style="margin-bottom:10px;">
@@ -214,13 +221,13 @@ N/A
 
 ### Time Series Analysis Shiny Dashboard <span style="font-size:11px;float:right;">[Link](https://minhchau.shinyapps.io/oranges/)</span><i class="fa fa-globe"></i>
 
-<span style = "line-height:150%;">*Objective*</span> : Demonstrate time series analysis and predictive modelling methods of data recorded at monthly interval. <br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Key skills learned*</span>
+<span style = "line-height:150%;">*Objective*</span> : Demonstrate time series analysis and predictive <br> modelling methods of data recorded at monthly interval. <br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Key skills learned*</span>
 
 N/A
 
 06/2020
 
- - Design a Shiny dashboard consisting of interactive graphs and tables to document data processes and present the results
+ - Design a Shiny dashboard consisting of interactive graphs and <br> tables to summarise the methods used and present the results
  - Emphasize important details of the dashboard to ensure it is user-friendly and appeals to a non-technical audience
 
 
@@ -230,7 +237,7 @@ N/A
 
 ### ICMR in patients under 18 years old report <span style="font-size:11px;float:right;">[Link](https://drive.google.com/file/d/1_94PQm6wHnYZ_Qo5SaU1i92-ZkW2iqtc/view)</span><i class="fa fa-globe"></i>
 
-<span style = "line-height:150%;">*Objective*</span> : Investigate the relationship between variables in the context of medical statistics. <br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Key skills learned*</span>
+<span style = "line-height:150%;">*Objective*</span> : Investigate the relationship between variables in the <br> context of medical statistics. <br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Key skills learned*</span>
 
 N/A
 
@@ -240,23 +247,22 @@ N/A
  - Highlight and interpret key findings to answer to the research question and make comments towards future considerations
 
 
-<div style="margin-bottom:10px;">
+<div style="margin-bottom:20px;">
 </div>
 
-### Multi-class Random Forest classifier technical report<span style="font-size:11px;float:right;">[Link](https://htmlpreview.github.io/?https://github.com/MinhChauVanNguyen/LearningPython/blob/master/ICMR/SummaryReport.html)</span><i class="fa fa-globe"></i>
+### Multi-class Random Forest classifier notebook<span style="font-size:11px;float:right;">[Link](https://htmlpreview.github.io/?https://github.com/MinhChauVanNguyen/LearningPython/blob/master/ICMR/SummaryReport.html)</span><i class="fa fa-globe"></i>
 
-<span style = "line-height:150%;">*Objective*</span> : Understand the analysis of multi-class data using a machine learning algorithm.<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Key skills learned*</span>
+<span style = "line-height:150%;">*Objective*</span> - Understand the analysis of multi-class data using a <br> machine learning algorithm.<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Key skills learned*</span>
 
 N/A
 
 09/2020
 
- - Understand the role and concept of machine learning algorithms in relating to data analytics
- - Evaluate performance and accuracy of Random Forest classifier used to fit imbalanced and balanced data 
+ - Perform data description and data visualisation
+ - Evaluate performance and accuracy of Random Forest classifier in fitting imbalanced and balanced data 
 
+<div style='margin-bottom:20px;'></div>
 
-<div style="margin-bottom:20px;">
-</div>
 
 :::{.aside style="top:5px;"}
 
