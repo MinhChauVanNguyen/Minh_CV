@@ -125,7 +125,7 @@ Work Experience {data-icon=black-tie}
 
  - Communicate with the client clearly to fulfil requirements
  - Prepare and transform survey data for analytical purposes
- - Create informative graphs and tables to present key findings
+ - Create informative graphs and tables to present key findings 
  - Apply statistical methods to data and produce insightful interpretations in plain English
 </div>
 

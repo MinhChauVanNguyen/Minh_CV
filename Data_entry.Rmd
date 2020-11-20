@@ -4,7 +4,7 @@ author: Minh Chau
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    css: ["resume", "customs.css"]
+    css: ["resume", "custom.css"]
     self_contained: true
 ---
 
@@ -17,13 +17,14 @@ Aside
 Contact {#contact}
 --------------------------------------------------------------------------------
 
- <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;color:#8db2ef;margin-bottom:6px;"></i> [*minh.chau@outlook.co.nz*](mailto:minh.chau@outlook.co.nz)<br>
- <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;color:#8db2ef;margin-bottom:5px;"></i><span style = "color:black;;">*+64-22-036-1978*</span><br>
- <i class="fa fa-linkedin" style ="margin-left:2.5px;margin-top:5px;margin-right:2px;color:#8db2ef;margin-bottom:5px;"></i> <span style="text-decoration:underline !important;">
- [*linkedin.com/in/minh-chau-van/*](https://www.linkedin.com/in/minh-chau-van/)</span><br>
+ <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;margin-bottom:6px;color:#8db2ef;"></i> [minh.chau@outlook.co.nz](mailto:minh.chau@outlook.co.nz)
+ <br>
+ <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;color:#8db2ef;"></i><span style="font-weight:400; color:black;">*+64-22-036-1978*</span><br>
+ <i class="fa fa-github" style ="margin-left:2px;margin-top:5px;margin-right:3px;color:#8db2ef;"></i>[Github profile](https://github.com/MinhChauVanNguyen)<br>
+ <i class="fa fa-home" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[Personal website](https://minhchauvannguyen.github.io/)<br>
+ <i class="fa fa-linkedin" style ="margin-left:2.5px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i> [Linkedin](https://www.linkedin.com/in/minh-chau-van/)<br>
 
 </div>
-<div style="margin-bottom:70px;"></div>
 
 
 Key Skills {#skills}
@@ -38,46 +39,44 @@ Key Skills {#skills}
   <div class="skills">Adapt quickly to new systems and computer competences</div>
 </div>
 
+<div class="container">
+  <div class="skills">Experience with data entry and reporting </div>
+</div>
 
 <div class="container">
-  <div class="skills">Experience with data entry and processing</div>
+  <div class="skills">Good understanding of data <br> privacy principles</div>
 </div>
-
 
 <div class="container">
-  <div class="skills">Ability to type fast with high accuracy in a timely manner</div>
+  <div class="skills">Strong attentition-to-detail and <br> customer service skills</div>
 </div>
 
-<div class="container", style="margin-bottom:70px;">
-  <div class="skills">Strong customer service skills</div>
+<div class="container">
+  <div class="skills">Advanced Microsoft Word, Power Point and Excel skills</div>
+</div>
+
+<div class="container">
+  <div class="skills">Ability to keep track of input and processing activities to ensure data consistency</div>
 </div>
 
 
 
-References {#references}
+References {#packages}
 --------------------------------------------------------------------------------
-
-<div style="margin-top:15px">
-   <span style="color:#8db2ef;">❑ </span> **Shirley Wu**
+<div style="margin-top:10px;">
 </div>
+<span style="color:#8db2ef;">❑</span> **Shirley Wu**
 <div style="margin-left:14px;margin-top:-10px;">
-Operation Manager </br>
+Operations Manager </br>
 Harmonic Analytics </br>
-<span style="text-decoration:underline !important;">[*shirley@harmonic.co.nz*](mailto:shirley@harmonic.co.nz)</span> <br>
+[shirley@harmonic.co.nz](mailto:shirley@harmonic.co.nz) <br>
 </div>
-   <span style="color:#8db2ef;">❑ </span> **Ploi Yibmantasiri**
+   <span style="color:#8db2ef;">❑</span> **Ploi Yibmantasiri**
 <div style="margin-left:14px;margin-top:-10px;">
 Data Scientist </br>
 Harmonic Analytics </br>
-<span style="text-decoration:underline !important;">[*ploi@harmonic.co.nz*](mailto:ploi@harmonic.co.nz)</span>
+[ploi@harmonic.co.nz](mailto:ploi@harmonic.co.nz)
 </div>
-  <span style="color:#8db2ef;">❑ </span> **Ge Guo**</br>
-<div style="margin-left:14px;margin-top:-10px;margin-bottom:470px;">
-Business Owner </br>
-Subway </br>
-<span style="text-decoration:underline !important;">[*subway_cablecar@hotmail.com*](mailto:subway_cablecar@hotmail.com)</span>
-</div>
-
 
 
 
@@ -91,7 +90,7 @@ Main
 
 <span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
 --------------------------------------------------------------------------------
-<span style="color:black;font-size:12.5px;"> As a recently graduated university student with excellent logical thinking and organisational skills, I am currently seeking a job opportunity in the information processing field to expand my experience within the workforce. </span>
+<span style="color:black;font-size:12.5px;"> As a recently graduated university student with excellent logical thinking and organisational skills, I am currently seeking a job opportunity in the data maintaining and information processing field to expand my professional experience within the workforce. </span>
 
 
 
@@ -112,11 +111,10 @@ Education {data-icon=graduation-cap data-concise=true}
 
 <span>Dunedin, NZ</span>
 
-03/2015 - 06/2019
+03/2015 - 06/2018
 
-<div style="margin-bottom:15px;">
-</div>
 
+<div style = "margin-top:20px;"></div>
 
 
 Work Experience {data-icon=black-tie}
@@ -130,12 +128,16 @@ Work Experience {data-icon=black-tie}
 
 <div style = "margin-top:20px;">
 
- - Create informative graphs and interpret results
- - Extract, process and analyse survey data using appropriate statistical methods
- - Communicate with client clearly to fulfil requirements
+ - Communicate with the client clearly to fulfil requirements
+ - Prepare and transform survey data for analytical purposes
+ - Create informative graphs and tables to present key findings
+ - Apply statistical methods to data and produce insightful interpretations in plain English
 </div>
 
 08/2020 - current
+
+<div style = "margin-top:20px;"></div>
+
 
 ### Sessional Assistant
 
@@ -145,12 +147,14 @@ Work Experience {data-icon=black-tie}
 
 <div style = "margin-top:20px;">
 
- - Mark 100-level statistics assignments
+ - Mark 100-level statistics assignments and projects
  - Attend to training and meetings
  - Enter assignment grades correctly and in accordance with the marking system's guidelines
 </div>
 
 04/2020 - current
+
+<div style = "margin-top:20px;"></div>
 
 ### Intern/Data Analyst
 
@@ -160,41 +164,22 @@ Work Experience {data-icon=black-tie}
 
 <div style="margin-top:20px;">
 
- - Wrangle and analyse time series data
- - Investigate different predictive modelling methods 
- - Produce a dashboard with interactive plots to present the results
- - Co-operate with supervisors to deliver according to the client’s requirements
+ - Extract,transform and analyse time series data to draw appropriate interpretations and conclusions
+ - Construct time series models to make monthly and yearly predictions
+ - Produce an interactive Shiny dashboard to present predictive techniques and significant statistical results
+ - Co-operate with supervisor and manager to deliver according to the client’s requirements and ensure data quality is optimised
+
 
 </div>
 
 03/2020 - 06/2020
 
-
-### Sandwich Artist
-
-<span>Subway</span>
-
-<span>Wellington, NZ</span>
-
-<div style="margin-top:20px;">
- - Work in a busy team under pressure 
- - Prepare orders neatly according to formula 
- - Adhere to proper food handling, safety and sanitation standards 
-</div>
+<div style = "margin-bottom:30px;"></div>
 
 
-08/2018 - 12/2019
 
-<div style="margin-bottom:20px;">
-</div>
-
-
-:::{.aside style="top:870px;"}
-
-
-*This resume was made with the R package [<span style ="color:#8db2ef">**pagedown**</span>](https://github.com/rstudio/pagedown)*
-
-
+:::{.aside style="top:880px;"}
+*This resume was made with the R package <span style ="color:#8db2ef;font-weight:bold;">pagedown</span>*.
 :::
 
 ```{r echo = FALSE,eval = FALSE}
