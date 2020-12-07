@@ -173,23 +173,8 @@ Work Experience {data-icon=black-tie}
 Projects {data-icon=coffee}
 --------------------------------------------------------------------------------
 
-<div style="margin-left:65px;margin-bottom:10px;font-size:12px;">The following projects which can be found in details on my portfolio, [*https://minhchauvannguyen.github.io/*](https://minhchauvannguyen.github.io/), have helped me to develop and strengthen my analytical, programming and reporting outcomes abilities. </div>
+<div style="margin-left:65px;margin-bottom:10px;font-size:12px;">The following projects which can be found in details on my website, [*https://minhchauvannguyen.github.io/*](https://minhchauvannguyen.github.io/), have helped me to develop and strengthen my analytical, programming and reporting outcomes abilities. </div>
 
-
-
-### Statistical Consulting Project Assignment <span style="font-size:11px;float:right;">[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)</span><i class="fa fa-globe"></i>
-
-<span style = "line-height:150%;">*Objective*</span> : Investigate the relationship between the amount of fish intake and mercury levels found in fisherman hair.<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Key skills learned*</span>
-
-N/A
-
-08/2019
-
--  Apply exploratory analysis to construct appropriate statistical models according to the nature of the data
- - Interpret outcomes of the methods implemented that are relevant and help answer to the report's goals and objectives
-
-
-<div style="margin-bottom:10px;"></div>
 
 ### Cluster Analysis Research Project <span style="font-size:11px;float:right;">[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)</span><i class="fa fa-globe"></i>
 
@@ -246,7 +231,22 @@ N/A
  - Report trends and patterns found in data that indicate an association between gender diversity and experience of discrimination
  - Produce graphs and tables from statistical findings to draw <br> evidence-based conclusions 
 
-<div style="margin-bottom:20px;"></div>
+<div style="margin-bottom:10px;"></div>
+
+
+### Machine Learning Dash Analytics<span style="font-size:11px;float:right;">[Link](https://sales-dash-analytics.herokuapp.com/)</span><i class="fa fa-globe"></i>
+
+<span style = "line-height:150%;">*Objective*</span> : Build regression and classification algorithms to analyse and predict sales data<br><span style="background-color:rgba(141, 178, 239, 0.3);line-height:200%;">*Key skills learned*</span>
+  
+  N/A
+
+12/2020
+
+- Clean, process data and interpret results with the use of Python and Plotly
+- Compare regression and classification models' performances <br> using performance metrics and feature selection methods
+
+
+<div style="margin-bottom:15px;"></div>
 
 
 :::{.aside style="top:5px;"}
