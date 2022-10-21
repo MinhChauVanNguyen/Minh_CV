@@ -259,7 +259,7 @@ N/A
 
 ### ICMR in patients under 18 years old follow-up report 
 
-<span style="font-size:11px;">This research study explores three different statistical methodologies, contingency table analysis, Bayesian approach to multiple multinomial logistic regression and Random Forest classification, and their application to health data. The results were reported to conclude the relationship between the side effect of annuloplasty Band and the clinical outcome of Mitral Regurgitation in patients with mitral valve diseases.</span>
+<span style="font-size:11px;">This research study explores three different statistical methodologies, contingency table analysis, Bayesian approach to multiple multinomial logistic regression and Random Forest classification, and their application to health data.</span>
 
 N/A
 
@@ -291,6 +291,6 @@ N/A
 :::
 
 
-```{r echo = FALSE,eval = FALSE}
-pagedown::chrome_print('~/Documents/Resume/Minh_RESUME_v2.html')
+```{r echo = FALSE,eval = TRUE}
+pagedown::chrome_print('~/Documents/Minh_CV/Minh_RESUME_v2.html')
 ```
