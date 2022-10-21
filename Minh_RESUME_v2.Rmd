@@ -17,7 +17,7 @@ Aside
 Contact {#contact}
 --------------------------------------------------------------------------------
 
- <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;margin-bottom:6px;color:#8db2ef;"></i> [<span style="text-decoration:underline !important;">minh.chau@outlook.co.nz</span>](mailto:minh.chau@outlook.co.nz)
+ <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;margin-bottom:6px;color:#8db2ef;"></i> [<span style="text-decoration:underline !important;">minh.chau@openpolytechnic.co.nz</span>](mailto:minh.chau@openpolytechnic.co.nz)
  <br>
  <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;color:#8db2ef;"></i><span style="font-weight:400; color:black;">+64-22-036-1978</span><br>
  <i class="fa fa-github" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[Github profile](https://github.com/MinhChauVanNguyen)<br>
@@ -34,7 +34,7 @@ Packages {#packages}
 <div style = "margin-bottom:3px;"></div>
 **Database Server:** SSMS<br>
 <div style = "margin-bottom:3px;"></div>
-**Web development:**HTML, CSS <br>
+**Web development:** HTML, CSS <br>
 <div style = "margin-bottom:3px;"></div>
 **Machine learning:** Python <br>
 <div style = "margin-bottom:3px;"></div>
@@ -118,7 +118,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 Work Experience {data-icon=black-tie}
 --------------------------------------------------------------------------------
-### Analyst - Strategic Insights Team
+### Analyst - Strategic Insight Team
 
 <span>Open Polytechnic of New Zealand</span>
 
@@ -130,7 +130,7 @@ Work Experience {data-icon=black-tie}
  - Tasks monitoring and providing input within the team
  - Analyse data and gather requirements for business users
  - Build Power BI reports to support reporting of EPIs and KPIs
- - Support team members and internal stakeholders in delivering analytics and insights to the business
+ - Support team members and staff members in delivering analytics and insights to the business
 </div>
 
 01/2021 - current
