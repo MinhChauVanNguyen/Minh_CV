@@ -17,7 +17,7 @@ Aside
 Contact {#contact}
 --------------------------------------------------------------------------------
 
- <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;margin-bottom:6px;color:#8db2ef;"></i> [<span style="text-decoration:underline !important;">minh.chau@openpolytechnic.co.nz</span>](mailto:minh.chau@openpolytechnic.co.nz)
+ <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;margin-bottom:6px;color:#8db2ef;"></i> [<span style="text-decoration:underline !important;">minh.chau@outlook.co.nz</span>](mailto:minh.chau@outlook.co.nz)
  <br>
  <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;color:#8db2ef;"></i><span style="font-weight:400; color:black;">+64-22-036-1978</span><br>
  <i class="fa fa-github" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[Github profile](https://github.com/MinhChauVanNguyen)<br>
