@@ -42,7 +42,7 @@ Packages {#packages}
 <div style = "margin-bottom:3px;"></div>
 **Workflow:** Github, Gitlab<br>
 <div style = "margin-bottom:3px;"></div>
-**Project Management Tool** Azure DevOps<br>
+**Project Management Tool:** Azure DevOps<br>
 <div style = "margin-bottom:3px;"></div>
 
 
@@ -127,8 +127,8 @@ Work Experience {data-icon=black-tie}
 <div style = "margin-top:20px;">
 
  - Write SQL queries to generate data and reports for informing decision-making
- - Keep daily tabs on tasks to ensure accomplishment
- - Perform data analysis and technical requirements for business users
+ - Tasks monitoring and providing input within the team
+ - Analyse data and gather requirements for business users
  - Build Power BI reports to support reporting of EPIs and KPIs
  - Support team members and internal stakeholders in delivering analytics and insights to the business
 </div>
