@@ -34,9 +34,9 @@ Packages {#packages}
 <div style = "margin-bottom:3px;"></div>
 **Database Server:** SSMS<br>
 <div style = "margin-bottom:3px;"></div>
-**Web development:** HTML, CSS <br>
+**Web Development:** HTML, CSS <br>
 <div style = "margin-bottom:3px;"></div>
-**Machine learning:** Python <br>
+**Machine Learning:** Python <br>
 <div style = "margin-bottom:3px;"></div>
 **Reporting:** R Markdown, Shiny, Latex, Power BI, Excel<br>
 <div style = "margin-bottom:3px;"></div>
