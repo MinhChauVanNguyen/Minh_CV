@@ -143,7 +143,7 @@ Work Experience {data-icon=black-tie}
 
  - Generate data and reports using SQL to inform decision-making
  - Work closely with business users and developers to analyse and gather requirements
- - Build Power BI reports to support reporting of EPIs and KPIs
+ - Build Power BI dashboards to report on EPIs and KPIs
  - Support team and staff members in delivering analytics and insights to the business
 </div>
 
