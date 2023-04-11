@@ -1,0 +1,124 @@
+
+Projects {data-icon=coffee}
+--------------------------------------------------------------------------------
+
+<div style="margin-left:65px;margin-bottom:5px;font-size:12px;">The following projects can be found in details on my personal website, [<span style="text-decoration:underline!important;color:#8db2ef !important;">**https://minhchauvannguyen.github.io/**</span>](https://minhchauvannguyen.github.io/)</span>.</div>
+
+
+### Statistical Consulting Assignment
+<span style="font-size:11px;">Report written based on the <i>Factors influencing the total mercury and
+methyl mercury in the hair of the fishermen</i> article by *N.B. Al-Majed* and *M.R. Preston*, with the aim to investigate the relationship between the amount of fish intake and mercury levels found in fisherman hair.</span>
+
+N/A
+
+08/2019
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)
+
+
+### Kaggle Data Shiny Application
+<span style="font-size:11px;">Shiny application allowing the user to perform interactive analysis on Kaggle suicide statistics accumulated at world level. I built this page when I first learned how to use Shiny for a university project assignment.</span>
+
+
+N/A
+
+09/2019
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/kaggle-application/)
+
+
+### Cluster Analysis Research Project
+<span style="font-size:11px;">Research study documenting the cluster analysis of ordinal and binary lingustics data. The model-based clustering approach using finite mixtures was proposed and described in the context of one-mode and two-mode hard clustering.</span>
+
+N/A
+
+02/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)
+
+
+
+### Time Series Analysis Technical Report
+
+<span style="font-size:11px;">Technical report summarising a variety of methods used for fitting time series data. The aim is to keep track of the data process, and report the findings of the models' perfomances and their predictive ability.</span>
+
+N/A
+
+05/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/Oranges_RMarkdown/)
+
+
+### Time Series Analysis Shiny Dashboard
+
+<span style="font-size:11px;">Shiny dashboard demonstrating Time Series analysis of randomly generated made up data. This dashboard was reproduced using the structure of the dashboard I had previously created for a client during my internship at Harmonic Analytics.</span>
+
+N/A
+
+06/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/oranges/)
+
+### ICMR in patients under 18 years old design study 
+
+<span style="font-size:11px;">By applying multinomial logistic regression and Kaplan-Meier survival methods to health data, the purpose of this study is to examine the long term effect of Carpentier-Edwards Ring or Band annuloplasty in patients under the age of 18 years old.</span>
+
+N/A
+
+07/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/ICMR_RMarkdown/Report.html)
+
+
+### ICMR in patients under 18 years old follow-up report 
+
+<span style="font-size:11px;">This research study explores three different statistical methodologies, contingency table analysis, Bayesian approach to multiple multinomial logistic regression and Random Forest classification, and their application to health data.</span>
+
+N/A
+
+09/2020
+
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1mKw78HsSxcF6d4XGw9IKwY5lHAvdtDlU/view)
+
+
+<div style="margin-bottom:20px;">
+</div>
+
+
+<div class="container", style="margin-bottom:70px;">
+  <div class="skills">Familiar with time series forecasting and other predictive modelling techniques</div>
+</div>
+
+<div class="container">
+  <div class="skills">Understanding of Machine Learning models and methodologies</div>
+</div>
+
+
+:::{.aside style="top:10px;"}
+
+<div style="font-size:17.6px;color:black;font-weight:400;">LANGUAGES</div>
+
+<div style="margin-bottom:-4px;margin-top:15px;"><span style="color:#8db2ef;">❑ </span> Vietnamese (native)</div>
+<span style="color:#8db2ef;">❑ </span> English (fluent) 
+
+<div style="font-size:17.6px;color:black;font-weight:400;margin-top:60px">Certificate</div>
+<a href="https://www.credly.com/badges/cab6c2e4-cb4d-42dc-8f06-b8e117971074/public_url">
+<img src="microsoft-certified-azure-ai-fundamentals.png" style="width:80;height:80px;">
+</a>
+
+:::
+
+<h3 style="font-style:normal;font-weight:normal;margin-bottom:-10px">Statistical Data Analyst</h3>
+
+
+<div style="margin-top:-40px;">
+Contact {#contact}
+--------------------------------------------------------------------------------
+ <i class="fa fa-envelope" style ="margin-left:2px;margin-right:2px;margin-bottom:6px;color:#8db2ef;"></i> [<span style="text-decoration:underline !important;">minh.chau@outlook.co.nz</span>](mailto:minh.chau@outlook.co.nz)
+ <br>
+ <i class="fa fa-phone" style ="margin-left:2px;margin-right:3px;color:#8db2ef;"></i><span style="font-weight:400; color:black;">+64-22-036-1978</span><br>
+ <i class="fa fa-github" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[Github profile](https://github.com/MinhChauVanNguyen)<br>
+ <i class="fa fa-home" style ="margin-left:2px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i>[Personal website](https://minhchauvannguyen.github.io/)<br>
+ <i class="fa fa-linkedin" style ="margin-left:2.5px;margin-top:5px;margin-right:2px;color:#8db2ef;"></i> [Linkedin](https://www.linkedin.com/in/minh-chau-van/)<br>
+
+</div>

@@ -1,5 +1,5 @@
 ---
-title: "Minh Chau"
+title: "Minh Chau Van Nguyen"
 author: Minh Chau
 date: "`r Sys.Date()`"
 output:
@@ -26,29 +26,30 @@ Contact {#contact}
 
 </div>
 
+
 Packages {#packages}
 --------------------------------------------------------------------------------
-<div style="margin-top:10px;">
-</div>
-**Statistical Programming:** <br>
-   <span style="margin-left:10px;color:#8db2ef;">❑</span> Experience with R  <br>
-   <span style="margin-left:10px;color:#8db2ef;">❑</span> Exposure to SAS, SPSS, SQL</span> <br>
+<div style="margin-top:10px;"></div>
+**Statistical Programming:** <br>R Studio, SPSS & SAS
 <div style = "margin-bottom:3px;"></div>
-**Web development:**  HTML, CSS <br>
+**Database Server:** SSMS<br>
 <div style = "margin-bottom:3px;"></div>
-**Machine learning:** Python (Entry level)<br>
+**Web Development:** HTML, CSS <br>
 <div style = "margin-bottom:3px;"></div>
-**Reporting:** R Markdown, Shiny, Latex<br>
+**Machine Learning:** Python <br>
+<div style = "margin-bottom:3px;"></div>
+**Reporting:** R Markdown, Shiny, Latex, Power BI, Excel, Jupyter Notebook<br>
 <div style = "margin-bottom:3px;"></div>
 **Workflow:** Github, Gitlab<br>
 <div style = "margin-bottom:3px;"></div>
-**MS Office:** Excel, Power Point, Word<br>
+**Project Management Tool:** Azure DevOps<br>
 <div style = "margin-bottom:3px;"></div>
+
 
 
 Key Skills {#skills}
 --------------------------------------------------------------------------------
-<div style="margin-bottom:20px;"></div>
+<div style="margin-bottom:20px;margin-top:-5px"></div>
 <div class="container">
   <div class="skills">Knowledge of advanced statistical analysing and programming</div>
 </div>
@@ -60,20 +61,17 @@ Key Skills {#skills}
 
 
 <div class="container">
-  <div class="skills">Ability to create evidence-based reports</div>
+  <div class="skills">Skilled in Business Intelligence (BI) and Data Visualisation</div>
 </div>
 
 
 <div class="container">
-  <div class="skills">Experience with qualitative and quantitative methodologies</div>
+  <div class="skills">Experienced in handling varied data types and validating data issues</div>
 </div>
+
 
 <div class="container">
-  <div class="skills">Understanding of survey design and analysis</div>
-</div>
-
-<div class="container", style="margin-bottom:70px;">
-  <div class="skills">Familiar with time series forecasting and other predictive modelling techniques</div>
+  <div class="skills">Test Planning, Execution, Regression testing and UAT</div>
 </div>
 
 
@@ -82,9 +80,9 @@ Key Skills {#skills}
 Main
 ================================================================================
 
-<span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
+<span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau Van Nguyen</span> {#title}
 --------------------------------------------------------------------------------
-<span style="color:black;font-size:12.5px;">My career goal is to apply my knowledge in producing reliable and <br> insightful projects through the use of statistics and inform critical decision making. I currently seek a suitable job to enhance my statistical and programming skills, and contribute to New Zealand society.</span>
+<h3 style="font-style:normal;font-weight:normal;margin-bottom:-15px">Statistical Data Analyst</h3>
 
 
 
@@ -108,13 +106,49 @@ Education {data-icon=graduation-cap data-concise=true}
 
 03/2015 - 06/2019
 
-<div style="margin-bottom:15px;">
+<div style="margin-bottom:10px;">
 </div>
 
 
 
 Work Experience {data-icon=black-tie}
 --------------------------------------------------------------------------------
+### Lead Analyst - Strategic Insights Team
+
+<span>Open Polytechnic of New Zealand</span>
+
+<span>Wellington, NZ</span>
+
+<div style = "margin-top:20px;">
+
+ - Provide data and insights to executives and internal stakeholders
+ - Communicate and delegate tasks to team members effectively to ensure deadlines are met
+ - Work under different teams and take lead in delivering projects
+ - Collaborate with external organisations (TEC and Ministry of Education) for compliance reporting
+ - Provide guidance and support to Strategic Insights Team analysts
+ 
+</div>
+
+11/2022 - Current
+
+
+
+### Analyst - Strategic Insights Team
+
+<span>Open Polytechnic of New Zealand</span>
+
+<span>Wellington, NZ</span>
+
+<div style = "margin-top:20px;">
+
+ - Generate data and reports using SQL to inform decision-making
+ - Work closely with business users and developers to analyse and gather requirements
+ - Build Power BI reports to support reporting of EPIs and KPIs
+ - Support team and staff members in delivering analytics and insights to the business
+</div>
+
+01/2021 - 11/2022
+
 
 ### Research Assistant
 
@@ -123,192 +157,35 @@ Work Experience {data-icon=black-tie}
 <span>Wellington, NZ</span>
 
 <div style = "margin-top:20px;">
-
+ - Communicate with the client clearly to fulfil requirements
+ - Transform and analyse survey data
  - Create informative graphs and interpret results
- - Extract, process and analyse survey data using appropriate statistical methods
- - Communicate with client clearly to fulfil requirements
 </div>
 
-08/2020 - current
+08/2020 - 12/2020
 
-### Sessional Assistant
 
-<span>Victoria University of Wellington</span>
 
-<span>Wellington, NZ</span>
-
-<div style = "margin-top:20px;">
-
- - Mark 100-level statistics assignments
- - Attend to training and meetings
- - Enter assignment grades correctly and in accordance with the marking system's guidelines
-</div>
-
-04/2020 - current
-
-### Intern/Data Analyst
+### Shiny Developer Intern
 
 <span>Harmonic Analytics</span>
 
 <span>Wellington, NZ</span>
 
 <div style="margin-top:20px;">
-
- - Wrangle and analyse time series data
- - Investigate different predictive modelling methods 
- - Produce a dashboard with interactive plots to present the results
- - Co-operate with supervisors to deliver according to the client’s requirements
-
+ - Co-operate with supervisors to deliver based on the client’s requirements
+ - Use different forecasting techniques to analyse and model time series data and identify trends
+ - Develop interactive dashboard to present the results
 </div>
 
 03/2020 - 06/2020
 
 
-### Sandwich Artist
 
-<span>Subway</span>
 
-<span>Wellington, NZ</span>
 
-<div style="margin-top:20px;">
- - Work in a busy team under pressure 
- - Prepare orders neatly, according to formula, and in a timely manner 
- - Adhere to proper food handling, safety and sanitation standards 
-</div>
 
 
-08/2018 - 12/2019
-
-<div style="margin-bottom:20px;">
-</div>
-
-
-Projects {data-icon=coffee}
---------------------------------------------------------------------------------
-
-<div style="margin-left:65px;margin-bottom:5px;font-size:12px;">The following projects can be found in details on my personal website, [<span style="text-decoration:underline!important;color:#8db2ef !important;">**https://minhchauvannguyen.github.io/**</span>](https://minhchauvannguyen.github.io/)</span>.</div>
-
-
-### Statistical Consulting Assignment
-<span style="font-size:11px;">Report written based on the <i>Factors influencing the total mercury and
-methyl mercury in the hair of the fishermen</i> article by *N.B. Al-Majed* and *M.R. Preston*, with the aim to investigate the relationship between the amount of fish intake and mercury levels found in fisherman hair.</span>
-
-N/A
-
-08/2019
-
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1A8YgvAbl9w6mb4Auzjh-PVVr8fIwEoLc/view)
-
-
-### Kaggle Data Shiny Application
-<span style="font-size:11px;">Shiny application allowing the user to perform interactive analysis on Kaggle suicide statistics accumulated at world level. I built this page when I first learned how to use Shiny for a university project assignment.</span>
-
-
-N/A
-
-09/2019
-
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/kaggle-application/)
-
-
-### Cluster Analysis Research Project
-<span style="font-size:11px;">Research study documenting the cluster analysis of ordinal and binary lingustics data. The model-based clustering approach using finite mixtures was proposed and described in the context of one-mode and two-mode hard clustering.</span>
-
-N/A
-
-02/2020
-
-<i class="fa fa-globe" style = "color:#8db2ef;;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1QBTAUTxXp_C3B6fx2Ah9_81BhHMoNgPf/view)
-
-
-
-### Time Series Analysis of Orange data Technical Report
-
-<span style="font-size:11px;">Technical report summarising a variety of methods used for fitting time series data. The aim is to keep track of the data process, and report the findings of the models' perfomances and their predictive ability.</span>
-
-N/A
-
-05/2020
-
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/TimeSeries/)
-
-
-### Time Series Analysis Shiny Dashboard for Orange data
-
-<span style="font-size:11px;">Shiny dashboard demonstrating Time Series analysis of randomly generated made up data. This dashboard was reproduced using the structure of the dashboard I had previously created for a client during my internship at Harmonic Analytics.</span>
-
-N/A
-
-06/2020
-
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchau.shinyapps.io/oranges/)
-
-### ICMR in patients under 18 years old design study 
-
-<span style="font-size:11px;">By applying multinomial logistic regression and Kaplan-Meier survival methods to health data, the purpose of this study is to examine the long term effect of Carpentier-Edwards Ring or Band annuloplasty in patients under the age of 18 years old.</span>
-
-N/A
-
-07/2020
-
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/ICMR/Report.html)
-
-
-### ICMR in patients under 18 years old follow-up report 
-
-<span style="font-size:11px;">This research study explores three different statistical methodologies, contingency table analysis, Bayesian approach to multiple multinomial logistic regression and Random Forest classification, and their application to health data. The results were reported to conclude the relationship between the side effect of annuloplasty Band and the clinical outcome of Mitral Regurgitation in patients with mitral valve diseases.</span>
-
-N/A
-
-09/2020
-
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1_94PQm6wHnYZ_Qo5SaU1i92-ZkW2iqtc/view)
-
-
-<div style="margin-bottom:20px;">
-</div>
-
-
-
-
-
-:::{.aside style="top:10px;"}
-
-<div style="font-size:17.6px;color:black;font-weight:400;">LANGUAGES</div>
-
-<div style="margin-bottom:-4px;margin-top:15px;"><span style="color:#8db2ef;">❑ </span> Vietnamese (native)</div>
-<span style="color:#8db2ef;">❑ </span> English (fluent) 
-
-<div style="font-size:17.6px;color:black;font-weight:400;margin-top:60px;">REFERENCES</div>
-
-<div style="margin-top:15px">
-   <span style="color:#8db2ef;">❑</span> **Shirley Wu**
-</div>
-<div style="margin-left:14px;margin-top:-10px;">
-Operation Manager </br>
-Harmonic Analytics </br>
-<span style="text-decoration:underline !important;">[shirley@harmonic.co.nz](mailto:shirley@harmonic.co.nz)</span> <br>
-</div>
-   <span style="color:#8db2ef;">❑</span> **Ploi Yibmantasiri**
-<div style="margin-left:14px;margin-top:-10px;">
-Data Scientist </br>
-Harmonic Analytics </br>
-<span style="text-decoration:underline !important;">[ploi@harmonic.co.nz](mailto:ploi@harmonic.co.nz)</span>
-</div>
-  <span style="color:#8db2ef;">❑</span> **Ge Guo**</br>
-<div style="margin-left:14px;margin-top:-10px;margin-bottom:470px;">
-Business Owner </br>
-Subway </br>
-<span style="text-decoration:underline !important;">[subway_cablecar@hotmail.com](mailto:subway_cablecar@hotmail.com)</span>
-</div>
-
-
-*This resume was made with the R package [<span style ="color:#8db2ef">**pagedown**</span>](https://github.com/rstudio/pagedown)*.
-
-
-:::
-
-
-```{r echo = FALSE,eval = FALSE}
-pagedown::chrome_print('~/Documents/Resume/Minh_RESUME.html')
+```{r echo = FALSE,eval = TRUE}
+pagedown::chrome_print('~/Documents/Minh_CV/Minh_RESUME.html')
 ```

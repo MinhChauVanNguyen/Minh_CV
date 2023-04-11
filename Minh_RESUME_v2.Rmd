@@ -1,5 +1,5 @@
 ---
-title: "Minh Chau Van Nguyen"
+title: "Minh Chau"
 author: Minh Chau
 date: "`r Sys.Date()`"
 output:
@@ -30,19 +30,19 @@ Packages {#packages}
 --------------------------------------------------------------------------------
 <div style="margin-top:10px;">
 </div>
-**Statistical Programming:** <br>R Studio, SPSS & SAS
+**Statistical Programming:** <br>
+   <span style="margin-left:10px;color:#8db2ef;">❑</span> Experience with R  <br>
+   <span style="margin-left:10px;color:#8db2ef;">❑</span> Exposure to SAS, SPSS, SQL</span> <br>
 <div style = "margin-bottom:3px;"></div>
-**Database Server:** SSMS<br>
+**Web development:**  HTML, CSS <br>
 <div style = "margin-bottom:3px;"></div>
-**Web Development:** HTML, CSS <br>
+**Machine learning:** Python (Entry level)<br>
 <div style = "margin-bottom:3px;"></div>
-**Machine Learning:** Python <br>
-<div style = "margin-bottom:3px;"></div>
-**Reporting:** R Markdown, Shiny, Latex, Power BI, Excel<br>
+**Reporting:** R Markdown, Shiny, Latex<br>
 <div style = "margin-bottom:3px;"></div>
 **Workflow:** Github, Gitlab<br>
 <div style = "margin-bottom:3px;"></div>
-**Project Management Tool:** Azure DevOps<br>
+**MS Office:** Excel, Power Point, Word<br>
 <div style = "margin-bottom:3px;"></div>
 
 
@@ -60,21 +60,17 @@ Key Skills {#skills}
 
 
 <div class="container">
-  <div class="skills">Ability to use SQL for ETL purposes</div>
+  <div class="skills">Ability to create evidence-based reports</div>
+</div>
+
+
+<div class="container">
+  <div class="skills">Experience with qualitative and quantitative methodologies</div>
 </div>
 
 <div class="container">
-  <div class="skills">Strong understanding of educational TEO EPIs and KPIs</div>
+  <div class="skills">Understanding of survey design and analysis</div>
 </div>
-
-<div class="container">
-  <div class="skills">Test Case creation and execution using DevOps</div>
-</div>
-
-<div class="container">
-  <div class="skills">Understanding of Machine Learning models and methodologies</div>
-</div>
-
 
 <div class="container", style="margin-bottom:70px;">
   <div class="skills">Familiar with time series forecasting and other predictive modelling techniques</div>
@@ -86,8 +82,9 @@ Key Skills {#skills}
 Main
 ================================================================================
 
-<span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau Van Nguyen</span> {#title}
+<span style="font-family:Graphik, sans serif !important;color:#8db2ef;font-weight:bold;">Minh Chau</span> {#title}
 --------------------------------------------------------------------------------
+<span style="color:black;font-size:12.5px;">My career goal is to apply my knowledge in producing reliable and <br> insightful projects through the use of statistics and inform critical decision making. I currently seek a suitable job to enhance my statistical and programming skills, and contribute to New Zealand society.</span>
 
 
 
@@ -118,23 +115,6 @@ Education {data-icon=graduation-cap data-concise=true}
 
 Work Experience {data-icon=black-tie}
 --------------------------------------------------------------------------------
-### Analyst - Strategic Insight Team
-
-<span>Open Polytechnic of New Zealand</span>
-
-<span>Wellington, NZ</span>
-
-<div style = "margin-top:20px;">
-
- - Write SQL queries to generate data and reports for informing decision-making
- - Tasks monitoring and providing input within the team
- - Analyse data and gather requirements for business users
- - Build Power BI reports to support reporting of EPIs and KPIs
- - Support team members and staff members in delivering analytics and insights to the business
-</div>
-
-01/2021 - current
-
 
 ### Research Assistant
 
@@ -184,6 +164,23 @@ Work Experience {data-icon=black-tie}
 03/2020 - 06/2020
 
 
+### Sandwich Artist
+
+<span>Subway</span>
+
+<span>Wellington, NZ</span>
+
+<div style="margin-top:20px;">
+ - Work in a busy team under pressure 
+ - Prepare orders neatly, according to formula, and in a timely manner 
+ - Adhere to proper food handling, safety and sanitation standards 
+</div>
+
+
+08/2018 - 12/2019
+
+<div style="margin-bottom:20px;">
+</div>
 
 
 Projects {data-icon=coffee}
@@ -225,7 +222,7 @@ N/A
 
 
 
-### Time Series Analysis Technical Report
+### Time Series Analysis of Orange data Technical Report
 
 <span style="font-size:11px;">Technical report summarising a variety of methods used for fitting time series data. The aim is to keep track of the data process, and report the findings of the models' perfomances and their predictive ability.</span>
 
@@ -233,10 +230,10 @@ N/A
 
 05/2020
 
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/Oranges_RMarkdown/)
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/TimeSeries/)
 
 
-### Time Series Analysis Shiny Dashboard
+### Time Series Analysis Shiny Dashboard for Orange data
 
 <span style="font-size:11px;">Shiny dashboard demonstrating Time Series analysis of randomly generated made up data. This dashboard was reproduced using the structure of the dashboard I had previously created for a client during my internship at Harmonic Analytics.</span>
 
@@ -254,18 +251,18 @@ N/A
 
 07/2020
 
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/ICMR_RMarkdown/Report.html)
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://minhchauvannguyen.github.io/ICMR/Report.html)
 
 
 ### ICMR in patients under 18 years old follow-up report 
 
-<span style="font-size:11px;">This research study explores three different statistical methodologies, contingency table analysis, Bayesian approach to multiple multinomial logistic regression and Random Forest classification, and their application to health data.</span>
+<span style="font-size:11px;">This research study explores three different statistical methodologies, contingency table analysis, Bayesian approach to multiple multinomial logistic regression and Random Forest classification, and their application to health data. The results were reported to conclude the relationship between the side effect of annuloplasty Band and the clinical outcome of Mitral Regurgitation in patients with mitral valve diseases.</span>
 
 N/A
 
 09/2020
 
-<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1mKw78HsSxcF6d4XGw9IKwY5lHAvdtDlU/view)
+<i class="fa fa-globe" style = "color:#8db2ef;margin-right:2.5px;"></i>[Link](https://drive.google.com/file/d/1_94PQm6wHnYZ_Qo5SaU1i92-ZkW2iqtc/view)
 
 
 <div style="margin-bottom:20px;">
@@ -282,15 +279,36 @@ N/A
 <div style="margin-bottom:-4px;margin-top:15px;"><span style="color:#8db2ef;">❑ </span> Vietnamese (native)</div>
 <span style="color:#8db2ef;">❑ </span> English (fluent) 
 
-<div style="font-size:17.6px;color:black;font-weight:400;margin-top:60px">Certificate</div>
-<a href="https://www.credly.com/badges/cab6c2e4-cb4d-42dc-8f06-b8e117971074/public_url">
-<img src="microsoft-certified-azure-ai-fundamentals.png" style="width:80;height:80px;">
-</a>
+<div style="font-size:17.6px;color:black;font-weight:400;margin-top:60px;">REFERENCES</div>
+
+<div style="margin-top:15px">
+   <span style="color:#8db2ef;">❑</span> **Shirley Wu**
+</div>
+<div style="margin-left:14px;margin-top:-10px;">
+Operation Manager </br>
+Harmonic Analytics </br>
+<span style="text-decoration:underline !important;">[shirley@harmonic.co.nz](mailto:shirley@harmonic.co.nz)</span> <br>
+</div>
+   <span style="color:#8db2ef;">❑</span> **Ploi Yibmantasiri**
+<div style="margin-left:14px;margin-top:-10px;">
+Data Scientist </br>
+Harmonic Analytics </br>
+<span style="text-decoration:underline !important;">[ploi@harmonic.co.nz](mailto:ploi@harmonic.co.nz)</span>
+</div>
+  <span style="color:#8db2ef;">❑</span> **Ge Guo**</br>
+<div style="margin-left:14px;margin-top:-10px;margin-bottom:470px;">
+Business Owner </br>
+Subway </br>
+<span style="text-decoration:underline !important;">[subway_cablecar@hotmail.com](mailto:subway_cablecar@hotmail.com)</span>
+</div>
+
+
+*This resume was made with the R package [<span style ="color:#8db2ef">**pagedown**</span>](https://github.com/rstudio/pagedown)*.
 
 
 :::
 
 
-```{r echo = FALSE,eval = TRUE}
-pagedown::chrome_print('~/Documents/Minh_CV/Minh_RESUME_v2.html')
+```{r echo = FALSE,eval = FALSE}
+pagedown::chrome_print('~/Documents/Resume/Minh_RESUME.html')
 ```
