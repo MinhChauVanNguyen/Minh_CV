@@ -51,27 +51,27 @@ Key Skills {#skills}
 --------------------------------------------------------------------------------
 <div style="margin-bottom:20px;margin-top:-5px"></div>
 <div class="container">
-  <div class="skills">Knowledge of advanced statistical analysing and programming</div>
+  <div class="skills">Experience in data analysis and statistical programming</div>
 </div>
 
 
 <div class="container">
-  <div class="skills">Build and maintain professional work relationships</div>
+  <div class="skills">Experience in handling varied data types and tackling data quality issues</div>
 </div>
 
 
 <div class="container">
-  <div class="skills">Skilled in Business Intelligence (BI) and Data Visualisation</div>
+  <div class="skills">Proficient in Business Intelligence (BI) and SQL database systems</div>
 </div>
 
 
 <div class="container">
-  <div class="skills">Experienced in handling varied data types and tackling data quality issues</div>
+  <div class="skills">Ability to build and maintain strategic and productive relationships both internally and externally</div>
 </div>
 
 
 <div class="container">
-  <div class="skills">Test Planning, Execution, Regression testing and UAT</div>
+  <div class="skills">Strong problem-solving skills, attention-to-details and ability to learn skills quickly to adapt to changing requirements</div>
 </div>
 
 
@@ -115,16 +115,16 @@ Work Experience {data-icon=black-tie}
 --------------------------------------------------------------------------------
 ### Lead Analyst - Strategic Insights Team
 
-<span>Open Polytechnic of New Zealand</span>
+<span>Open Polytechnic | Te Pūkenga</span>
 
 <span>Wellington, NZ</span>
 
 <div style = "margin-top:20px;">
 
- - Provide data and insights to executives and internal stakeholders
- - Communicate and delegate tasks to team members effectively to ensure deadlines are met
+ - Provide strategic analytical support to executives and internal stakeholders
  - Work under different teams and take lead in delivering projects
- - Collaborate with external organisations (TEC and Ministry of Education) for compliance reporting
+ - Collaborate with external organisations to fulfill compliance reporting requirements
+ - Communicate and delegate tasks to team members effectively to ensure deadlines are met
  - Provide guidance and support to Strategic Insights Team analysts
  
 </div>
@@ -135,7 +135,7 @@ Work Experience {data-icon=black-tie}
 
 ### Analyst - Strategic Insights Team
 
-<span>Open Polytechnic of New Zealand</span>
+<span>Open Polytechnic | Te Pūkenga</span>
 
 <span>Wellington, NZ</span>
 
