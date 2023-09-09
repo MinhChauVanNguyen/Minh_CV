@@ -122,10 +122,9 @@ Work Experience {data-icon=black-tie}
 <div style = "margin-top:20px;">
 
  - Provide strategic analytical support to executives and internal stakeholders
- - Work under different teams and take lead in delivering projects
  - Collaborate with external organisations to fulfill compliance reporting requirements
- - Communicate and delegate tasks to team members effectively to ensure deadlines are met
- - Provide guidance and support to Strategic Insights Team analysts
+ - Work under different teams and take lead in delivering projects
+ - Provide guidance and coaching to Strategic Insights Team analysts
  
 </div>
 
